@@ -1,0 +1,73 @@
+Lemma,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s)
+трамвай,tram,N.Masc.Inan,A1,"MiP, МН",1,трамвай,Acc.Sing,Он сел в трамвай номер шесть.,He took tram number six.,_,"транспорт, город"
+трамвай,tram,N.Masc.Inan,A1,"MiP, МН",2,трамвая,Gen.Sing,Я хочу стать водителем трамвая.,I want to become a tram driver.,_,"транспорт, город"
+трамвай,tram,N.Masc.Inan,A1,"MiP, МН",3,трамваи,Nom.Plur,Слишком поздно. Трамваи не ходят.,It's too late. The trams aren't running.,_,"транспорт, город"
+килограмм,"kilogram, kg",N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,кг,Gen.Sing,Вам понадобятся 2 кг моркови и немного сливочного масла.,You will need two kilos of carrots and some butter.,_,мера
+килограмм,"kilogram, kg",N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,килограмм,Nom.Sing,Килограмм брокколи стоит сто рублей.,A kilogram of broccoli costs a hundred rubles.,_,мера
+килограмм,"kilogram, kg",N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,килограммов,Gen.Plur,Мой рюкзак весит восемь килограммов.,My backpack weights eight kilograms.,_,мера
+активный,active,A,A1,МН,1,активных,Gen.Plur,Эта работа подходит для активных людей.,This work is suitable for active people.,_,люди
+активный,active,A,A1,МН,2,активную,Acc.Fem.Sing,Аудитория играет активную роль в жизни артиста.,The audience plays an active role in a performert's life.,_,люди
+активный,active,A,A1,МН,3,активной,Gen.Fem.Sing,Маша устала от активной жизни.,Masha got tired of her active life.,_,люди
+парк,park,N.Masc.Inan,A1,"LM, МН",1,парке,Loc.Sing,Моя мама любит гулять в парке вечером.,My mother likes walking in the park in the evening.,_,"город, свободное время"
+парк,park,N.Masc.Inan,A1,"LM, МН",2,парк,Acc.Sing,После школы Анна с девочками пошли в парк.,After school Anna and the girls went to the park.,_,"город, свободное время"
+парк,park,N.Masc.Inan,A1,"LM, МН",3,парка,Gen.Sing,Фестиваль Чая пройдёт на территории Парка Горького.,The Tea Fest will take place on the grounds of Gorky Park.,_,"город, свободное время"
+бизнесмен,businessman,N.Masc.Anim,A1,"Golosa, MiP, LM, МН, Поехали",1,бизнесменов,Gen.Plur,Новый закон защищает интересы бизнесменов.,The new law protects the interests of businessmen.,_,"люди, профессии"
+бизнесмен,businessman,N.Masc.Anim,A1,"Golosa, MiP, LM, МН, Поехали",2,бизнесмен,Nom.Sing,"Бизнесмен должен быть либо честным, либо осторожным.",A businessman has to be either honest or careful.,_,"люди, профессии"
+бизнесмен,businessman,N.Masc.Anim,A1,"Golosa, MiP, LM, МН, Поехали",3,бизнесмены,Nom.Plur,Российские бизнесмены протестуют против повышения налогов.,Russian businessmen are protesting against a tax increase.,_,"люди, профессии"
+музей,museum,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,музея,Gen.Sing,Работники музея могут посещать выставки бесплатно.,Museum workers can attend exhibitions for free.,_,"город, свободное время"
+музей,museum,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,музее,Loc.Sing,В этом музее есть скелет синего кита.,There is a skeleton of a blue whale in this museum.,_,"город, свободное время"
+музей,museum,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,музей,Nom.Sing,Музей Москвы был открыт в конце девятнадцатого века.,The Moscow Museum was opened at the end of the nineteenth century.,_,"город, свободное время"
+богатый,rich,A,A1,"LM, МН",1,богатый,Nom.Masc.Sing,"Саша – богатый человек, но скромный.",Sasha is a rich man but a modest one.,_,люди
+богатый,rich,A,A1,"LM, МН",2,богатых,Gen.Plur,Жизнь в центре города – удовольствие только для богатых людей.,Living in the city centre is a pleasure for rich people only.,_,люди
+богатый,rich,A,A1,"LM, МН",3,богатым,Ins.Masc.Sing,Я совсем не хочу быть богатым.,I don't want to be rich at all.,_,люди
+экзамен,exam,N.Masc.Inan,A1,"LM, МН",1,экзамен,Acc.Sing,Эта группа не сдаст экзамен по химии.,This group won't pass the chemistry exam.,_,учеба/работа
+экзамен,exam,N.Masc.Inan,A1,"LM, МН",2,экзамены,Acc.Plur,Летом мы сдаём экзамены по всем предметам.,In summer we have exams in all subjects. ,_,учеба/работа
+экзамен,exam,N.Masc.Inan,A1,"LM, МН",3,экзаменов,Gen.Plur,После экзаменов я собираюсь спать три дня.,After the exams I am going to sleep for three days.,_,учеба/работа
+масло,butter/oil,N.Neut.Inan,A1,"Golosa, MiP, LM, МН",1,маслом,Ins.Sing,Он всегда ест хлеб с маслом на завтрак.,He always has bread and butter for breakfast.,_,еда
+масло,butter/oil,N.Neut.Inan,A1,"Golosa, MiP, LM, МН",2,масла,Gen.Sing,Нужно добавить в салат больше оливкового масла.,You need to add more olive oil to the salad.,_,еда
+масло,butter/oil,N.Neut.Inan,A1,"Golosa, MiP, LM, МН",3,масло,Nom.Sing,"Для теста вам потребуются сливочное масло, стакан муки и стакан сахара."," For the dough you'll need butter, a cup of flour and a cup of sugar.",_,еда
+немец,German,N.Masc.Anim,A1,"LM, МН, Кс",1,немцы,Nom.Plur,"Считается, что немцы любят пиво.",It's thought that Gemans like beer.,_,"люди, политика"
+немец,German,N.Masc.Anim,A1,"LM, МН, Кс",2,немцев,Gen.Plur,В моей учебной группе есть несколько немцев.,There are several Germans in my studying group.,_,"люди, политика"
+немец,German,N.Masc.Anim,A1,"LM, МН, Кс",3,немец,Nom.Sing,"В его анекдотах всегда есть русский, француз и немец.","There are always a Russian, a Frenchman and a German in his anecdotes.",_,"люди, политика"
+ложка,spoon,N.Fem.Inan,A1,МН,1,ложку,Acc.Sing,Я кладу в чай одну ложку сахара.,I put a spoonful of sugar in my tea.,_,"еда, кухня"
+ложка,spoon,N.Fem.Inan,A1,МН,2,ложкой,Ins.Sing,Маленький мальчик ест суп большой ложкой.,The little boy eats soup with a big spoon.,_,"еда, кухня"
+ложка,spoon,N.Fem.Inan,A1,МН,3,ложки,Gen.Sing,Здесь нет ложки.,There is no spoon.,The Matrix (1999),"еда, кухня"
+левый,left/leftist,A,A1,"MiP, МН",1,левую,Acc.Fem.Sing,Он положил левую руку мне на плечо.,He put his left hand on my shoulder.,_,"люди, направление"
+левый,left/leftist,N.Masc.Anim,A1,"MiP, МН",2,левые,Nom.Plur,Левые не получают поддержки от правительства Российской Федерации.,Leftists don't get support from the government of the Russian Federation.,_,"люди, политика"
+левый,left/leftist,A,A1,"MiP, МН",3,левой,Gen.Fem.Sing,Маша взяла меня за левую руку.,Masha took my left hand.,_,"люди, направление"
+комедия,comedy,N.Fem.Inan,A1,"MiP, LM, МН",1,комедия,Nom.Sing,"Это комедия, так что здесь никто не умирает.","This is a comedy, so nobody dies.",_,искусство
+комедия,comedy,N.Fem.Inan,A1,"MiP, LM, МН",2,комедии,Gen.Sing,В новой комедии Питера Сигала главную роль играет Джек Николсон.,Jack Nicholson plays the lead role in Peter Segal's new comedy.,_,искусство
+комедия,comedy,N.Fem.Inan,A1,"MiP, LM, МН",3,комедию,Acc.Sing,В такую погоду я лучше останусь дома и посмотрю хорошую комедию.,In this weather I'd rather stay at home and watch a good comedy.,_,искусство
+понравиться,please,V,A1,"LM, МН",1,понравилось,Neut.Sing.Past,Мне понравилось это вино.,I really like this wine.,_,внутренний мир
+понравиться,please,V,A1,"LM, МН",2,понравился,Masc.Sing.Past,Моему брату не понравился мой новый друг.,My brother didn't like my new friend.,_,внутренний мир
+понравиться,please,V,A1,"LM, МН",3,понравилась,Fem.Sing.Past,София сразу мне понравилась.,I liked Sophia at once.,_,внутренний мир
+футбол,football/soccer,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,футбол,Acc.Sing,На перемене мы обычно играем в футбол или пинг-понг.,During the break we always play football or ping-pong.,_,спорт
+футбол,football/soccer,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,футбола,Gen.Sing,Никакого футбола в моём дворе!,No football in my yard!,_,спорт
+футбол,football/soccer,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,футболу,Dat.Sing,В 2018 чемпионат мира по футболу прошёл в России.,In 2018 the World Soccer Cup was held in Russia. ,_,спорт
+пообедать,have dinner,V,A1,"Golosa, MiP, LM, МН",1,пообедали,Plur.Past,Мы пообедали в придорожном кафе.,We had dinner in a roadside cafe.,_,еда
+пообедать,have dinner,V,A1,"Golosa, MiP, LM, МН",2,пообедать,Inf,После работы мы решили вместе пообедать.,After work we decided to have dinner together.,_,еда
+пообедать,have dinner,V,A1,"Golosa, MiP, LM, МН",3,пообедаем,Plur.1.Pres/Fut,"Мы с Марией пообедаем вместе, а потом пойдём в кино.",Maria and I are going to have dinner and then go to the movie theater.,_,еда
+салат,salad/lettuce,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,салата,Gen.Sing,"Например, ты можешь положить в сэндвич лист салата.","For example, you can put a lettuce leaf in the sandwich.",_,еда
+салат,salad/lettuce,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,салат,Acc.Sing,Папа сегодня готовит свой любимый салат.,Today Dad is making his favorite salad.,_,еда
+салат,salad/lettuce,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,салатов,Gen.Plur,На Новый Год люди обычно готовят пять или шесть разных салатов.,For the New Year celebration people always ,_,еда
+стадион,stadium,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,стадиона,Gen.Sing,Друзья будут ждать меня у стадиона.,My friends will wait for me next to the stadium.,_,спорт
+стадион,stadium,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,стадионе,Loc.Sing,"На стадионе ""Лужники"" пройдёт следующий матч чемпионата мира.",Next play of the World Cup will be held in the Luzhniki stadium.,_,спорт
+стадион,stadium,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,стадион,Nom.Sing,Стадион был построен в 2014 году.,The stadium was built in 2014.,_,спорт
+ключ,key,N.Masc.Inan,A1,"MiP, LM, МН",1,ключ,Acc.Sing,Я ушла и заперла дверь на ключ.,I left and locked the door on key.,_,дом
+ключ,key,N.Masc.Inan,A1,"MiP, LM, МН",2,ключи,Acc.Plur,"Кажется, я забыл ключи.",Seems like I've forgot the keys.,_,дом
+ключ,key,N.Masc.Inan,A1,"MiP, LM, МН",3,ключом,Ins.Sing,Мама откроет дверь своим ключом.,Mum will open the door with her own key.,_,дом
+яйцо,egg,N.Neut.Inan,A1,"Golosa, MiP, МН",1,яиц,Gen.Plur,"Для пирога нужны десяток яиц, мука и сахар.","For the pie we need ten eggs, sugar and flour.",_,еда
+яйцо,egg,N.Neut.Inan,A1,"Golosa, MiP, МН",2,яйца,Acc.Plur,Папа достал из холодильника яйца и помидоры.,Dad took eggs and tomatoes from the frige.,_,еда
+яйцо,egg,N.Neut.Inan,A1,"Golosa, MiP, МН",3,яйцо,Acc.Sing,На завтрак я съел яйцо.,For breakfast I want to have an egg.,_,еда
+марка,mark/postmark,N.Fem.Inan,A1,"LM, МН",1,марки,Gen.Sing,Я не покупаю одежду этой марки.,I don't by clothes of this brand.,_,_
+марка,mark/postmark,N.Fem.Inan,A1,"LM, МН",2,марок,Gen.Plur,Я храню свою коллекцию марок в этом альбоме.,I keep my collection of postmarks in this album.,_,_
+марка,mark/postmark,N.Fem.Inan,A1,"LM, МН",3,марку,Acc.Sing,Моя сестра предпочитает другую марку пива.,My sister prefers the other mark of beer.,_,_
+попросить,ask for,V,A1,"LM, МН",1,попросил,Masc.Sing.Past,Брат попросил у меня отвёртку.,My brother asked me for a screwdriver.,_,"люди, общение"
+попросить,ask for,V,A1,"LM, МН",2,попросить,Inf,Могу ли я попросить тебя об одолжении?,May I ask you for a favour?,_,"люди, общение"
+попросить,ask for,V,A1,"LM, МН",3,попросила,Fem.Sing.Past,"Саша, мама попросила тебя помыть посуду.","Sasha, Mum asked you to wash the dishes!",_,"люди, общение"
+цирк,circus,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,цирка,Gen.Sing,Я хочу взять интервью у артиста цирка.,I want to interview a circus artist.,_,развлечения
+цирк,circus,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,цирке,Loc.Sing,"Работа в цирке тяжёлая, но интересная.",Working in the circus is hard but interesting,_,развлечения
+цирк,circus,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,цирк,Nom.Sing,Этот цирк великолепен!,This circus is incredible!,_,развлечения
+обед,dinner/lunch,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,обеда,Gen.Sing,После обеда я всегда хочу спать.,After lunch I always want to sleep.,_,еда
+обед,dinner/lunch,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,обед,Nom.Sing,Обед начинается в два часа.,Lunch starts at two o'clock.,_,еда
+обед,dinner/lunch,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,обеду,Dat.Sing,"Думаю, мы вернёмся к обеду.","I think, we're going to come back by dinner.",_,еда
