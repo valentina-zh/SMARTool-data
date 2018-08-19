@@ -1,0 +1,475 @@
+Lemma,ID,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s)
+аппетит,1416,_,N.Masc.Inan,A2,"MiP, LM",1,аппетит,Acc.Sing,Пойдем в лес! Заодно аппетит нагуляем.,Let’s go to the forest! We’ll work up an appetite at the same time.,_,"еда, здоровье"
+аппетит,1417,_,N.Masc.Inan,A2,"MiP, LM",2,аппетиты,Nom.Plur,"Их бизнес только начал приносить прибыль, и аппетиты сразу же выросли.","Their business just started to bring them the first profit, and their appetites grew immediately.",_,"еда, здоровье"
+аппетит,1418,_,N.Masc.Inan,A2,"MiP, LM",3,аппетитом,Ins.Sing,"Только посмотрите, с каким аппетитом Вася ест суп!",Just look at Vasya eating soup with such appetite!,_,"еда, здоровье"
+багаж,1419,_,N.Masc.Inan,A2,"Golosa, MiP, LM, МН",1,багажа,Gen.Sing,Лоукостеры обычно продают билеты без багажа. За него придется доплатить отдельно.,Low cost airlines usually sell their tickets with no luggage included. You’ll have to pay extra for it.,_,путешествие
+багаж,1420,_,N.Masc.Inan,A2,"Golosa, MiP, LM, МН",2,багаж,Nom.Sing,"Мы прилетели из отпуска домой, а наш багаж — нет. Он потерялся где-то в аэропорту Барселоны, где у нас была стыковка.","We came from vacation, but our luggage didn’t. It was lost somewhere in the Barcelona airport where we had a connection between flights.",_,путешествие
+багаж,1421,_,N.Masc.Inan,A2,"Golosa, MiP, LM, МН",3,багажом,Ins.Sing,После рождения ребенка я всегда стала путешествовать с багажом.,I started to always travel with luggage after I got a kid.,_,путешествие
+бег,1422,_,N.Masc.Inan,A2,LM,1,бегу,Loc.Sing,"Я долго собиралась на работу, поэтому завтракать пришлось на бегу.","It took me long to get ready for work, so I had to have breakfast on my way in a rush.",_,"свободное время, спорт"
+бег,1423,_,N.Masc.Inan,A2,LM,2,бега,Gen.Sing,Мои ноги стали сильнее от бега по утрам.,My legs became stronger because of jogging in the mornings.,_,"свободное время, спорт"
+бег,1424,_,N.Masc.Inan,A2,LM,3,беге,Loc.Sing,"В беге главное — правильная техника, иначе легко получить травму.","The most important thing in running is a right technique, otherwise it’s easy to get traumatized.",_,"свободное время, спорт"
+бегать,1425,_,V,A2,"Golosa, LM, МН",1,бегали,Plur.Past,В июне мы каждое утро бегали вдоль моря.,In June we were jogging along the sea every morning.,_,_
+бегать,1426,_,V,A2,"Golosa, LM, МН",2,бегать,Inf,Я привыкла бегать по вечерам после работы.,I’m used to go jogging after work in the evenings.,_,_
+бегать,1427,_,V,A2,"Golosa, LM, МН",3,бегала,Fem.Sing.Past,"Я никогда не бегала так быстро, как вчера на тренировке.",I was never running as fast as yesterday at training.,_,_
+бежать,1428,_,V,A2,LM,1,бежать,Inf,"Я увидел перекресток и не знал, куда бежать дальше: налево или направо?",I saw a crossroad and didn’t know where to run further: to the left or to the right.,_,_
+бежать,1429,_,V,A2,LM,2,бежит,Sing.3.Pres/Fut,"Усейн Болт бежит по пятой дорожке, а Ричард Томпсон — по второй.",Usain Bolt is running on the track 5 and Richard Thompson is running on the track 2.,_,_
+бежать,1430,_,V,A2,LM,3,бежал,Masc.Sing.Past,В прошлом месяце он бежал первый в своей жизни полумарафон.,Last month he was running his first marathon in life.,_,_
+берег,1431,_,N.Masc.Inan,A2,LM,1,берегу,Loc.Sing,"На берегу реки не росло ничего, кроме двух берез.",There was nothing on the riverside except for two birches.,_,_
+берег,1432,_,N.Masc.Inan,A2,LM,2,берег,Acc.Sing,"Наша экскурсия по Темзе закончилась, и мы спустились на берег.",Our excursion on the river Thames was over and we got off to the river bank.,_,_
+берег,1433,_,N.Masc.Inan,A2,LM,3,берега,Gen.Sing,"Корабль быстро отплывал от берега, и скоро его совсем перестало быть видно.",The ship was sailing away from the shore and soon it wasn’t possible to see it.,_,_
+беречь,1434,_,V,A2,LM,1,беречь,Inf,_,_,_,_
+беречь,1435,_,V,A2,LM,2,берёг,Masc.Sing.Past,_,_,_,_
+беречь,1436,_,V,A2,LM,3,берегла,Fem.Sing.Past,_,_,_,_
+беседовать,1437,_,V,A2,LM,1,беседовали,Plur.Past,_,_,_,_
+беседовать,1438,_,V,A2,LM,2,беседуем,Plur.1.Pres/Fut,_,_,_,_
+беседовать,1439,_,V,A2,LM,3,беседовать,Inf,_,_,_,_
+бесплатный,1440,_,A,A2,LM,1,бесплатного,Gen.Masc.Sing,_,_,_,_
+бесплатный,1441,_,A,A2,LM,2,бесплатная,Nom.Fem.Sing,_,_,_,_
+бесплатный,1442,_,A,A2,LM,3,бесплатной,Gen.Fem.Sing,_,_,_,_
+бесплатный,1443,_,A,A2,Golosa,1,бесплатного,Gen.Masc.Sing,_,_,_,_
+бесплатный,1444,_,A,A2,Golosa,2,бесплатная,Nom.Fem.Sing,_,_,_,_
+бесплатный,1445,_,A,A2,Golosa,3,бесплатной,Gen.Fem.Sing,_,_,_,_
+биография,1446,_,N.Fem.Inan,A2,LM,1,биография,Nom.Sing,_,_,_,_
+биография,1447,_,N.Fem.Inan,A2,LM,2,биографии,Gen.Sing,_,_,_,_
+биография,1448,_,N.Fem.Inan,A2,LM,3,биографию,Acc.Sing,_,_,_,_
+бить,1449,_,V,A2,LM,1,бьёт,Sing.3.Pres/Fut,_,_,_,_
+бить,1450,_,V,A2,LM,2,бить,Inf,_,_,_,_
+бить,1451,_,V,A2,LM,3,бил,Masc.Sing.Past,_,_,_,_
+благодарить,1452,_,V,A2,LM,1,благодарю,Sing.1.Pres/Fut,_,_,_,_
+благодарить,1453,_,V,A2,LM,2,благодарит,Sing.3.Pres/Fut,_,_,_,_
+благодарить,1454,_,V,A2,LM,3,благодарил,Masc.Sing.Past,_,_,_,_
+бог,1455,_,N.Masc.Anim,A2,"MiP, LM",1,бог,Nom.Sing,_,_,_,_
+бог,1456,_,N.Masc.Anim,A2,"MiP, LM",2,богу,Dat.Sing,_,_,_,_
+бог,1457,_,N.Masc.Anim,A2,"MiP, LM",3,бога,Gen.Sing,_,_,_,_
+больница,1458,_,N.Fem.Inan,A2,"Golosa, LM",1,больнице,Loc.Sing,_,_,_,_
+больница,1459,_,N.Fem.Inan,A2,"Golosa, LM",2,больницу,Acc.Sing,_,_,_,_
+больница,1460,_,N.Fem.Inan,A2,"Golosa, LM",3,больницы,Gen.Sing,_,_,_,_
+булочка,1461,_,N.Fem.Inan,A2,"Golosa, MiP, LM, МН",1,булочки,Nom.Plur,_,_,_,_
+бумага,1462,_,N.Fem.Inan,A2,LM,1,бумаги,Gen.Sing,_,_,_,_
+бумага,1463,_,N.Fem.Inan,A2,LM,2,бумагу,Acc.Sing,_,_,_,_
+бумага,1464,_,N.Fem.Inan,A2,LM,3,бумаге,Loc.Sing,_,_,_,_
+бутерброд,1465,_,N.Masc.Inan,A2,"Golosa, MiP, LM, МН",1,бутерброды,Acc.Plur,_,_,_,_
+бутерброд,1466,_,N.Masc.Inan,A2,"Golosa, MiP, LM, МН",2,бутербродах,Loc.Plur,_,_,_,_
+бутерброд,1467,_,N.Masc.Inan,A2,"Golosa, MiP, LM, МН",3,бутербродами,Ins.Plur,_,_,_,_
+бутылка,1468,_,N.Fem.Inan,A2,"Golosa, MiP, LM",1,бутылку,Acc.Sing,_,_,_,_
+бутылка,1469,_,N.Fem.Inan,A2,"Golosa, MiP, LM",2,бутылки,Gen.Sing,_,_,_,_
+бутылка,1470,_,N.Fem.Inan,A2,"Golosa, MiP, LM",3,бутылок,Gen.Plur,_,_,_,_
+бывать,1471,_,V,A2,"Golosa, MiP, LM, МН",1,бывает,Sing.3.Pres/Fut,_,_,_,_
+бывать,1472,_,V,A2,"Golosa, MiP, LM, МН",2,бывают,Plur.3.Pres/Fut,_,_,_,_
+бывать,1473,_,V,A2,"Golosa, MiP, LM, МН",3,бывало,Neut.Sing.Past,_,_,_,_
+быстрый,1474,_,A,A2,"Golosa, LM",1,быстрого,Gen.Neut.Sing,_,_,_,_
+быстрый,1475,_,A,A2,"Golosa, LM",2,быстрое,Nom.Neut.Sing,_,_,_,_
+быстрый,1476,_,A,A2,"Golosa, LM",3,быстрой,Gen.Fem.Sing,_,_,_,_
+важный,1477,_,A,A2,"Golosa, LM",1,важно,Neut.Sing,_,_,_,_
+важный,1478,_,A,A2,"Golosa, LM",2,важное,Nom.Neut.Sing,_,_,_,_
+важный,1479,_,A,A2,"Golosa, LM",3,важную,Acc.Fem.Sing,_,_,_,_
+варить,1480,_,V,A2,LM,1,варить,Inf,_,_,_,_
+варить,1481,_,V,A2,LM,2,варят,Plur.3.Pres/Fut,_,_,_,_
+варить,1482,_,V,A2,LM,3,варили,Plur.Past,_,_,_,_
+везти,1483,_,V,A2,"LM, Поехали",1,везёт,Sing.3.Pres/Fut,_,_,_,_
+везти,1484,_,V,A2,"LM, Поехали",2,везли,Plur.Past,_,_,_,_
+везти,1485,_,V,A2,"LM, Поехали",3,везло,Neut.Sing.Past,_,_,_,_
+вера,1486,_,N.Fem.Inan,A2,LM,1,вера,Nom.Sing,_,_,_,_
+вера,1487,_,N.Fem.Inan,A2,LM,2,веры,Gen.Sing,_,_,_,_
+вера,1488,_,N.Fem.Inan,A2,LM,3,веру,Acc.Sing,_,_,_,_
+верить,1489,_,V,A2,"LM, МН",1,верить,Inf,_,_,_,_
+верить,1490,_,V,A2,"LM, МН",2,верю,Sing.1.Pres/Fut,_,_,_,_
+верить,1491,_,V,A2,"LM, МН",3,верит,Sing.3.Pres/Fut,_,_,_,_
+вернуть,1492,_,V,A2,"MiP, LM",1,вернуть,Inf,_,_,_,_
+вернуть,1493,_,V,A2,"MiP, LM",2,вернули,Plur.Past,_,_,_,_
+вернуть,1494,_,V,A2,"MiP, LM",3,вернула,Fem.Sing.Past,_,_,_,_
+вернуться,1495,_,V,A2,"MiP, LM, МН",1,вернулся,Masc.Sing.Past,_,_,_,_
+вернуться,1496,_,V,A2,"MiP, LM, МН",2,вернуться,Inf,_,_,_,_
+вернуться,1497,_,V,A2,"MiP, LM, МН",3,вернулись,Plur.Past,_,_,_,_
+весенний,1498,_,A,A2,LM,1,весеннего,Gen.Masc.Sing,_,_,_,_
+весенний,1499,_,A,A2,LM,2,весенний,Nom.Masc.Sing,_,_,_,_
+весенний,1500,_,A,A2,LM,3,весеннюю,Acc.Fem.Sing,_,_,_,_
+ветер,1501,_,N.Masc.Inan,A2,"Golosa, LM",1,ветер,Nom.Sing,_,_,_,_
+ветер,1502,_,N.Masc.Inan,A2,"Golosa, LM",2,ветра,Gen.Sing,_,_,_,_
+ветер,1503,_,N.Masc.Inan,A2,"Golosa, LM",3,ветром,Ins.Sing,_,_,_,_
+вещь,1504,_,N.Fem.Inan,A2,"Golosa, LM, Поехали",1,вещей,Gen.Plur,_,_,_,_
+вещь,1505,_,N.Fem.Inan,A2,"Golosa, LM, Поехали",2,вещи,Acc.Plur,_,_,_,_
+вещь,1506,_,N.Fem.Inan,A2,"Golosa, LM, Поехали",3,вещь,Nom.Sing,_,_,_,_
+вид,1507,_,N.Masc.Inan,A2,"Golosa, MiP, LM",1,виде,Loc.Sing,_,_,_,_
+вид,1508,_,N.Masc.Inan,A2,"Golosa, MiP, LM",2,виду,Loc.Sing,_,_,_,_
+вид,1509,_,N.Masc.Inan,A2,"Golosa, MiP, LM",3,видов,Gen.Plur,_,_,_,_
+вилка,1510,_,N.Fem.Inan,A2,"LM, МН",1,вилкой,Ins.Sing,_,_,_,_
+вилка,1511,_,N.Fem.Inan,A2,"LM, МН",2,вилок,Gen.Plur,_,_,_,_
+вилка,1512,_,N.Fem.Inan,A2,"LM, МН",3,вилку,Acc.Sing,_,_,_,_
+висеть,1513,_,V,A2,"Golosa, LM, МН",1,висит,Sing.3.Pres/Fut,_,_,_,_
+висеть,1514,_,V,A2,"Golosa, LM, МН",2,висел,Masc.Sing.Past,_,_,_,_
+висеть,1515,_,V,A2,"Golosa, LM, МН",3,висела,Fem.Sing.Past,_,_,_,_
+включать,1516,_,V,A2,"Golosa, LM, МН",1,включает,Sing.3.Pres/Fut,_,_,_,_
+включать,1517,_,V,A2,"Golosa, LM, МН",2,включать,Inf,_,_,_,_
+включать,1518,_,V,A2,"Golosa, LM, МН",3,включают,Plur.3.Pres/Fut,_,_,_,_
+включить,1519,_,V,A2,МН,1,включить,Inf,_,_,_,_
+включить,1520,_,A,A2,МН,2,включены,Plur,_,_,_,_
+включить,1521,_,V,A2,МН,3,включил,Masc.Sing.Past,_,_,_,_
+вкусный,1522,_,A,A2,"Golosa, MiP, LM, МН",1,вкусно,Neut.Sing,_,_,_,_
+вкусный,1523,_,A,A2,"Golosa, MiP, LM, МН",2,вкусные,Nom.Plur,_,_,_,_
+вкусный,1524,_,A,A2,"Golosa, MiP, LM, МН",3,вкусны,Plur,_,_,_,_
+власть,1525,_,N.Fem.Inan,A2,LM,1,власти,Gen.Sing,_,_,_,_
+власть,1526,_,N.Fem.Inan,A2,LM,2,власть,Nom.Sing,_,_,_,_
+власть,1527,_,N.Fem.Inan,A2,LM,3,властей,Gen.Plur,_,_,_,_
+внимание,1528,_,N.Neut.Inan,A2,"Golosa, LM",1,внимание,Acc.Sing,_,_,_,_
+внимание,1529,_,N.Neut.Inan,A2,"Golosa, LM",2,внимания,Gen.Sing,_,_,_,_
+внимание,1530,_,N.Neut.Inan,A2,"Golosa, LM",3,вниманием,Ins.Sing,_,_,_,_
+внимательный,1531,_,A,A2,LM,1,внимательны,Plur,_,_,_,_
+внимательный,1532,_,A,A2,LM,2,внимательные,Nom.Plur,_,_,_,_
+внимательный,1533,_,A,A2,LM,3,внимательными,Ins.Plur,_,_,_,_
+водить,1534,_,V,A2,"LM, Поехали",1,водит,Sing.3.Pres/Fut,_,_,_,_
+водить,1535,_,V,A2,"LM, Поехали",2,водил,Masc.Sing.Past,_,_,_,_
+водить,1536,_,V,A2,"LM, Поехали",3,водя,Pres/Fut,_,_,_,_
+водка,1537,_,N.Fem.Inan,A2,"MiP, LM, МН",1,водки,Gen.Sing,_,_,_,_
+водка,1538,_,N.Fem.Inan,A2,"MiP, LM, МН",2,водку,Acc.Sing,_,_,_,_
+водка,1539,_,N.Fem.Inan,A2,"MiP, LM, МН",3,водка,Nom.Sing,_,_,_,_
+возвращать,1540,_,V,A2,LM,1,возвращают,Plur.3.Pres/Fut,_,_,_,_
+возвращать,1541,_,V,A2,LM,2,возвращает,Sing.3.Pres/Fut,_,_,_,_
+возвращать,1542,_,V,A2,LM,3,возвращать,Inf,_,_,_,_
+возвращаться,1543,_,V,A2,"Golosa, MiP, LM",1,возвращается,Sing.3.Pres/Fut,_,_,_,_
+возвращаться,1544,_,V,A2,"Golosa, MiP, LM",2,возвращаться,Inf,_,_,_,_
+возвращаться,1545,_,V,A2,"Golosa, MiP, LM",3,возвращаясь,Pres/Fut,_,_,_,_
+воздух,1546,_,N.Masc.Inan,A2,"LM, Поехали",1,воздуха,Gen.Sing,_,_,_,_
+воздух,1547,_,N.Masc.Inan,A2,"LM, Поехали",2,воздухе,Loc.Sing,_,_,_,_
+воздух,1548,_,N.Masc.Inan,A2,"LM, Поехали",3,воздух,Nom.Sing,_,_,_,_
+возить,1549,_,V,A2,"LM, Поехали",1,возить,Inf,_,_,_,_
+возить,1550,_,V,A2,"LM, Поехали",2,возила,Fem.Sing.Past,_,_,_,_
+возить,1551,_,V,A2,"LM, Поехали",3,возили,Plur.Past,_,_,_,_
+возраст,1552,_,N.Masc.Inan,A2,"Golosa, LM",1,возрасте,Loc.Sing,_,_,_,_
+возраст,1553,_,N.Masc.Inan,A2,"Golosa, LM",2,возраста,Gen.Sing,_,_,_,_
+возраст,1554,_,N.Masc.Inan,A2,"Golosa, LM",3,возраст,Nom.Sing,_,_,_,_
+война,1555,_,N.Fem.Inan,A2,"MiP, LM",1,войны,Gen.Sing,_,_,_,_
+война,1556,_,N.Fem.Inan,A2,"MiP, LM",2,война,Nom.Sing,_,_,_,_
+война,1557,_,N.Fem.Inan,A2,"MiP, LM",3,войну,Acc.Sing,_,_,_,_
+войти,1558,_,V,A2,MiP,1,вошли,Plur.Past,_,_,_,_
+войти,1559,_,V,A2,MiP,2,вошёл,Masc.Sing.Past,_,_,_,_
+войти,1560,_,V,A2,MiP,3,войти,Inf,_,_,_,_
+волноваться,1561,_,V,A2,"Golosa, LM",1,волноваться,Inf,_,_,_,_
+волноваться,1562,_,V,A2,"Golosa, LM",2,волнуйся,Imper.Sing.2,_,_,_,_
+волноваться,1563,_,V,A2,"Golosa, LM",3,волнуется,Sing.3.Pres/Fut,_,_,_,_
+волос,1564,_,N.Masc.Inan,A2,LM,1,волосы,Acc.Plur,_,_,_,_
+волос,1565,_,N.Masc.Inan,A2,LM,2,волос,Gen.Plur,_,_,_,_
+волос,1566,_,N.Masc.Inan,A2,LM,3,волосами,Ins.Plur,_,_,_,_
+восток,1567,_,N.Masc.Inan,A2,"Golosa, LM, МН",1,востока,Gen.Sing,_,_,_,_
+восток,1568,_,N.Masc.Inan,A2,"Golosa, LM, МН",2,востоке,Loc.Sing,_,_,_,_
+восток,1569,_,N.Masc.Inan,A2,"Golosa, LM, МН",3,восток,Nom.Sing,_,_,_,_
+восточный,1570,_,A,A2,"LM, МН",1,восточных,Gen.Plur,_,_,_,_
+восточный,1571,_,A,A2,"LM, МН",2,восточные,Nom.Plur,_,_,_,_
+восточный,1572,_,A,A2,"LM, МН",3,восточной,Gen.Fem.Sing,_,_,_,_
+враг,1573,_,N.Masc.Anim,A2,LM,1,враг,Nom.Sing,_,_,_,_
+враг,1574,_,N.Masc.Anim,A2,LM,2,врага,Gen.Sing,_,_,_,_
+враг,1575,_,N.Masc.Anim,A2,LM,3,враги,Nom.Plur,_,_,_,_
+вспоминать,1576,_,V,A2,LM,1,вспоминать,Inf,_,_,_,_
+вспоминать,1577,_,V,A2,LM,2,вспоминаю,Sing.1.Pres/Fut,_,_,_,_
+вспоминать,1578,_,V,A2,LM,3,вспоминает,Sing.3.Pres/Fut,_,_,_,_
+вспомнить,1579,_,V,A2,LM,1,вспомнить,Inf,_,_,_,_
+вспомнить,1580,_,V,A2,LM,2,вспомнил,Masc.Sing.Past,_,_,_,_
+вспомнить,1581,_,V,A2,LM,3,вспомнили,Plur.Past,_,_,_,_
+вставать,1582,_,V,A2,"Golosa, MiP, LM, МН",1,встаёт,Sing.3.Pres/Fut,_,_,_,_
+вставать,1583,_,V,A2,"Golosa, MiP, LM, МН",2,вставать,Inf,_,_,_,_
+вставать,1584,_,V,A2,"Golosa, MiP, LM, МН",3,вставала,Fem.Sing.Past,_,_,_,_
+встреча,1585,_,N.Fem.Inan,A2,LM,1,встречи,Gen.Sing,_,_,_,_
+встреча,1586,_,N.Fem.Inan,A2,LM,2,встреча,Nom.Sing,_,_,_,_
+встреча,1587,_,N.Fem.Inan,A2,LM,3,встреч,Gen.Plur,_,_,_,_
+встречаться,1588,_,V,A2,"Golosa, LM",1,встречаются,Plur.3.Pres/Fut,_,_,_,_
+встречаться,1589,_,V,A2,"Golosa, LM",2,встречается,Sing.3.Pres/Fut,_,_,_,_
+встречаться,1590,_,V,A2,"Golosa, LM",3,встречались,Plur.Past,_,_,_,_
+второй,1591,_,A,A2,"Golosa, MiP, LM",1,второй,Nom.Masc.Sing,_,_,_,_
+второй,1592,_,A,A2,"Golosa, MiP, LM",2,вторая,Nom.Fem.Sing,_,_,_,_
+второй,1593,_,A,A2,"Golosa, MiP, LM",3,втором,Loc.Masc.Sing,_,_,_,_
+входить,1594,_,V,A2,"Golosa, MiP, LM",1,входит,Sing.3.Pres/Fut,_,_,_,_
+входить,1595,_,V,A2,"Golosa, MiP, LM",2,входят,Plur.3.Pres/Fut,_,_,_,_
+входить,1596,_,V,A2,"Golosa, MiP, LM",3,входил,Masc.Sing.Past,_,_,_,_
+вчерашний,1597,_,A,A2,LM,1,вчерашнего,Gen.Neut.Sing,_,_,_,_
+вчерашний,1598,_,A,A2,LM,2,вчерашней,Gen.Fem.Sing,_,_,_,_
+вчерашний,1599,_,A,A2,LM,3,вчерашних,Gen.Plur,_,_,_,_
+выбирать,1600,_,V,A2,LM,1,выбирать,Inf,_,_,_,_
+выбирать,1601,_,V,A2,LM,2,выбирает,Sing.3.Pres/Fut,_,_,_,_
+выбирать,1602,_,V,A2,LM,3,выбирая,Pres/Fut,_,_,_,_
+выйти,1603,_,V,A2,MiP,1,вышел,Masc.Sing.Past,_,_,_,_
+выйти,1604,_,V,A2,MiP,2,вышла,Fem.Sing.Past,_,_,_,_
+выйти,1605,_,V,A2,MiP,3,выйти,Inf,_,_,_,_
+выступать,1606,_,V,A2,"Golosa, LM",1,выступает,Sing.3.Pres/Fut,_,_,_,_
+выступать,1607,_,V,A2,"Golosa, LM",2,выступать,Inf,_,_,_,_
+выступать,1608,_,V,A2,"Golosa, LM",3,выступают,Plur.3.Pres/Fut,_,_,_,_
+выходить,1609,_,V,A2,"Golosa, MiP, LM",1,выходит,Sing.3.Pres/Fut,_,_,_,_
+выходить,1610,_,V,A2,"Golosa, MiP, LM",2,выходят,Plur.3.Pres/Fut,_,_,_,_
+выходить,1611,_,V,A2,"Golosa, MiP, LM",3,выходить,Inf,_,_,_,_
+галерея,1612,_,N.Fem.Inan,A2,"Golosa, LM",1,галерею,Acc.Sing,_,_,_,_
+галерея,1613,_,N.Fem.Inan,A2,"Golosa, LM",2,галерее,Loc.Sing,_,_,_,_
+галерея,1614,_,N.Fem.Inan,A2,"Golosa, LM",3,галереях,Loc.Plur,_,_,_,_
+герой,1615,_,N.Masc.Anim,A2,LM,1,герой,Nom.Sing,_,_,_,_
+герой,1616,_,N.Masc.Anim,A2,LM,2,героев,Gen.Plur,_,_,_,_
+герой,1617,_,N.Masc.Anim,A2,LM,3,героя,Gen.Sing,_,_,_,_
+главный,1618,_,A,A2,"Golosa, LM",1,главный,Nom.Masc.Sing,_,_,_,_
+главный,1619,_,A,A2,"Golosa, LM",2,главным,Ins.Masc.Sing,_,_,_,_
+главный,1620,_,A,A2,"Golosa, LM",3,главных,Gen.Plur,_,_,_,_
+глубокий,1621,_,A,A2,LM,1,глубокой,Gen.Fem.Sing,_,_,_,_
+глубокий,1622,_,A,A2,LM,2,глубокая,Nom.Fem.Sing,_,_,_,_
+глубокий,1623,_,A,A2,LM,3,глубокого,Gen.Neut.Sing,_,_,_,_
+глупый,1624,_,A,A2,"Golosa, LM, Кс",1,глупая,Nom.Fem.Sing,_,_,_,_
+глупый,1625,_,A,A2,"Golosa, LM, Кс",2,глупый,Nom.Masc.Sing,_,_,_,_
+глупый,1626,_,A,A2,"Golosa, LM, Кс",3,глупые,Nom.Plur,_,_,_,_
+голос,1627,_,N.Masc.Inan,A2,"Golosa, LM",1,голос,Nom.Sing,_,_,_,_
+голос,1628,_,N.Masc.Inan,A2,"Golosa, LM",2,голосом,Ins.Sing,_,_,_,_
+голос,1629,_,N.Masc.Inan,A2,"Golosa, LM",3,голосов,Gen.Plur,_,_,_,_
+гора,1630,_,N.Fem.Inan,A2,"Golosa, LM",1,гору,Acc.Sing,_,_,_,_
+гора,1631,_,N.Fem.Inan,A2,"Golosa, LM",2,горы,Acc.Plur,_,_,_,_
+гора,1632,_,N.Fem.Inan,A2,"Golosa, LM",3,гор,Gen.Plur,_,_,_,_
+горький,1633,_,A,A2,LM,1,горько,Neut.Sing,_,_,_,_
+горький,1634,_,A,A2,LM,2,горькой,Gen.Fem.Sing,_,_,_,_
+горький,1635,_,A,A2,LM,3,горькая,Nom.Fem.Sing,_,_,_,_
+государство,1636,_,N.Neut.Inan,A2,LM,1,государства,Gen.Sing,_,_,_,_
+государство,1637,_,N.Neut.Inan,A2,LM,2,государство,Nom.Sing,_,_,_,_
+государство,1638,_,N.Neut.Inan,A2,LM,3,государств,Gen.Plur,_,_,_,_
+готовить,1639,_,V,A2,"Golosa, MiP, LM",1,готовят,Plur.3.Pres/Fut,_,_,_,_
+готовить,1640,_,V,A2,"Golosa, MiP, LM",2,готовить,Inf,_,_,_,_
+готовить,1641,_,V,A2,"Golosa, MiP, LM",3,готовит,Sing.3.Pres/Fut,_,_,_,_
+градус,1642,_,N.Masc.Inan,A2,"Golosa, MiP, LM",1,градусов,Gen.Plur,_,_,_,_
+градус,1643,_,N.Masc.Inan,A2,"Golosa, MiP, LM",2,градуса,Gen.Sing,_,_,_,_
+градус,1644,_,N.Masc.Inan,A2,"Golosa, MiP, LM",3,град,Gen.Plur,_,_,_,_
+грамматика,1645,_,N.Fem.Inan,A2,"Golosa, LM",1,грамматики,Gen.Sing,_,_,_,_
+грамматика,1646,_,N.Fem.Inan,A2,"Golosa, LM",2,грамматику,Acc.Sing,_,_,_,_
+грамматика,1647,_,N.Fem.Inan,A2,"Golosa, LM",3,грамматикой,Ins.Sing,_,_,_,_
+граница,1648,_,N.Fem.Inan,A2,LM,1,границей,Ins.Sing,_,_,_,_
+граница,1649,_,N.Fem.Inan,A2,LM,2,границу,Acc.Sing,_,_,_,_
+граница,1650,_,N.Fem.Inan,A2,LM,3,границ,Gen.Plur,_,_,_,_
+грипп,1651,_,N.Masc.Inan,A2,"Golosa, MiP, LM, Поехали, Кс",1,гриппа,Gen.Sing,_,_,_,_
+грипп,1652,_,N.Masc.Inan,A2,"Golosa, MiP, LM, Поехали, Кс",2,гриппом,Ins.Sing,_,_,_,_
+грустный,1653,_,A,A2,"Golosa, LM",1,грустный,Nom.Masc.Sing,_,_,_,_
+грустный,1654,_,A,A2,"Golosa, LM",2,грустные,Nom.Plur,_,_,_,_
+грустный,1655,_,A,A2,"Golosa, LM",3,грустно,Neut.Sing,_,_,_,_
+грязный,1656,_,A,A2,LM,1,грязная,Nom.Fem.Sing,_,_,_,_
+грязный,1657,_,A,A2,LM,2,грязные,Nom.Plur,_,_,_,_
+грязный,1658,_,A,A2,LM,3,грязную,Acc.Fem.Sing,_,_,_,_
+далекий,1659,_,A,A2,LM,1,далёкие,Nom.Plur,_,_,_,_
+далекий,1660,_,A,A2,LM,2,далёких,Gen.Plur,_,_,_,_
+далекий,1661,_,A,A2,LM,3,далёкой,Loc.Fem.Sing,_,_,_,_
+дата,1662,_,N.Fem.Inan,A2,LM,1,даты,Gen.Sing,_,_,_,_
+дата,1663,_,N.Fem.Inan,A2,LM,2,дата,Nom.Sing,_,_,_,_
+дата,1664,_,N.Fem.Inan,A2,LM,3,датой,Ins.Sing,_,_,_,_
+деревня,1665,_,N.Fem.Inan,A2,LM,1,деревне,Loc.Sing,_,_,_,_
+деревня,1666,_,N.Fem.Inan,A2,LM,2,деревню,Acc.Sing,_,_,_,_
+деревня,1667,_,N.Fem.Inan,A2,LM,3,деревня,Nom.Sing,_,_,_,_
+дерево,1668,_,N.Neut.Inan,A2,LM,1,деревьев,Gen.Plur,_,_,_,_
+дерево,1669,_,N.Neut.Inan,A2,LM,2,дерева,Gen.Sing,_,_,_,_
+дерево,1670,_,N.Neut.Inan,A2,LM,3,деревья,Nom.Plur,_,_,_,_
+держать,1671,_,V,A2,"MiP, LM",1,держать,Inf,_,_,_,_
+держать,1672,_,V,A2,"MiP, LM",2,держал,Masc.Sing.Past,_,_,_,_
+держать,1673,_,V,A2,"MiP, LM",3,держит,Sing.3.Pres/Fut,_,_,_,_
+детство,1674,_,N.Neut.Inan,A2,LM,1,детстве,Loc.Sing,_,_,_,_
+детство,1675,_,N.Neut.Inan,A2,LM,2,детства,Gen.Sing,_,_,_,_
+детство,1676,_,N.Neut.Inan,A2,LM,3,детство,Acc.Sing,_,_,_,_
+диалог,1677,_,N.Masc.Inan,A2,"Golosa, MiP, LM",1,диалога,Gen.Sing,_,_,_,_
+диалог,1678,_,N.Masc.Inan,A2,"Golosa, MiP, LM",2,диалоге,Loc.Sing,_,_,_,_
+диалог,1679,_,N.Masc.Inan,A2,"Golosa, MiP, LM",3,диалог,Nom.Sing,_,_,_,_
+диван,1680,_,N.Masc.Inan,A2,"Golosa, MiP, LM",1,диване,Loc.Sing,_,_,_,_
+диван,1681,_,N.Masc.Inan,A2,"Golosa, MiP, LM",2,диван,Acc.Sing,_,_,_,_
+диван,1682,_,N.Masc.Inan,A2,"Golosa, MiP, LM",3,дивана,Gen.Sing,_,_,_,_
+длинный,1683,_,A,A2,"Golosa, LM",1,длинными,Ins.Plur,_,_,_,_
+длинный,1684,_,A,A2,"Golosa, LM",2,длинный,Nom.Masc.Sing,_,_,_,_
+длинный,1685,_,A,A2,"Golosa, LM",3,длинная,Nom.Fem.Sing,_,_,_,_
+довольный,1686,_,A,A2,LM,1,доволен,Masc.Sing,_,_,_,_
+довольный,1687,_,A,A2,LM,2,довольны,Plur,_,_,_,_
+довольный,1688,_,A,A2,LM,3,довольный,Nom.Masc.Sing,_,_,_,_
+доказывать,1689,_,V,A2,LM,1,доказывать,Inf,_,_,_,_
+доказывать,1690,_,V,A2,LM,2,доказывает,Sing.3.Pres/Fut,_,_,_,_
+доказывать,1691,_,V,A2,LM,3,доказывал,Masc.Sing.Past,_,_,_,_
+доктор,1692,_,N.Masc.Anim,A2,"Golosa, LM",1,доктор,Nom.Sing,_,_,_,_
+доктор,1693,_,N.Masc.Anim,A2,"Golosa, LM",2,доктора,Nom.Plur,_,_,_,_
+доктор,1694,_,N.Masc.Anim,A2,"Golosa, LM",3,доктору,Dat.Sing,_,_,_,_
+домашний,1695,_,A,A2,"Golosa, LM",1,домашних,Gen.Plur,_,_,_,_
+домашний,1696,_,A,A2,"Golosa, LM",2,домашние,Nom.Plur,_,_,_,_
+домашний,1697,_,A,A2,"Golosa, LM",3,домашней,Gen.Fem.Sing,_,_,_,_
+дружба,1698,_,N.Fem.Inan,A2,LM,1,дружбы,Gen.Sing,_,_,_,_
+дружба,1699,_,N.Fem.Inan,A2,LM,2,дружба,Nom.Sing,_,_,_,_
+дружба,1700,_,N.Fem.Inan,A2,LM,3,дружбе,Loc.Sing,_,_,_,_
+дружный,1701,_,A,A2,LM,1,дружная,Nom.Fem.Sing,_,_,_,_
+дружный,1702,_,A,A2,LM,2,дружных,Loc.Plur,_,_,_,_
+дружный,1703,_,A,A2,LM,3,дружным,Dat.Plur,_,_,_,_
+единственный,1704,_,A,A2,"Golosa, LM",1,единственный,Nom.Masc.Sing,_,_,_,_
+единственный,1705,_,A,A2,"Golosa, LM",2,единственная,Nom.Fem.Sing,_,_,_,_
+единственный,1706,_,A,A2,"Golosa, LM",3,единственное,Nom.Neut.Sing,_,_,_,_
+елка,1707,_,N.Fem.Inan,A2,LM,1,ёлку,Acc.Sing,_,_,_,_
+елка,1708,_,N.Fem.Inan,A2,LM,2,ёлок,Gen.Plur,_,_,_,_
+елка,1709,_,N.Fem.Inan,A2,LM,3,ёлкой,Ins.Sing,_,_,_,_
+женатый,1710,_,A,A2,"MiP, LM",1,женат,Masc.Sing,_,_,_,_
+женатый,1711,_,A,A2,"MiP, LM",2,женатых,Anim.Acc.Plur,_,_,_,_
+жениться,1712,_,V,A2,"MiP, LM",1,женился,Masc.Sing.Past,_,_,_,_
+жениться,1713,_,V,A2,"MiP, LM",2,жениться,Inf,_,_,_,_
+жениться,1714,_,V,A2,"MiP, LM",3,женюсь,Sing.1.Pres/Fut,_,_,_,_
+живой,1715,_,A,A2,LM,1,живой,Nom.Masc.Sing,_,_,_,_
+живой,1716,_,A,A2,LM,2,живая,Nom.Fem.Sing,_,_,_,_
+живой,1717,_,A,A2,LM,3,живые,Nom.Plur,_,_,_,_
+животное,1718,_,N.Neut.Anim,A2,LM,1,животных,Gen.Plur,_,_,_,_
+животное,1719,_,N.Neut.Anim,A2,LM,2,животные,Nom.Plur,_,_,_,_
+животное,1720,_,N.Neut.Anim,A2,LM,3,животное,Nom.Sing,_,_,_,_
+забывать,1721,_,V,A2,"Golosa, MiP, LM",1,забывать,Inf,_,_,_,_
+забывать,1722,_,V,A2,"Golosa, MiP, LM",2,забывают,Plur.3.Pres/Fut,_,_,_,_
+забывать,1723,_,V,A2,"Golosa, MiP, LM",3,забывайте,Imper.Plur.2,_,_,_,_
+забыть,1724,_,V,A2,MiP,1,забыл,Masc.Sing.Past,_,_,_,_
+забыть,1725,_,V,A2,MiP,2,забыла,Fem.Sing.Past,_,_,_,_
+забыть,1726,_,V,A2,MiP,3,забыть,Inf,_,_,_,_
+задание,1727,_,N.Neut.Inan,A2,"Golosa, LM",1,задание,Acc.Sing,_,_,_,_
+задание,1728,_,N.Neut.Inan,A2,"Golosa, LM",2,задания,Gen.Sing,_,_,_,_
+задание,1729,_,N.Neut.Inan,A2,"Golosa, LM",3,заданий,Gen.Plur,_,_,_,_
+задача,1730,_,N.Fem.Inan,A2,LM,1,задач,Gen.Plur,_,_,_,_
+задача,1731,_,N.Fem.Inan,A2,LM,2,задачи,Gen.Sing,_,_,_,_
+задача,1732,_,N.Fem.Inan,A2,LM,3,задача,Nom.Sing,_,_,_,_
+заказать,1733,_,V,A2,MiP,1,заказать,Inf,_,_,_,_
+заказать,1734,_,V,A2,MiP,2,заказал,Masc.Sing.Past,_,_,_,_
+заказать,1735,_,V,A2,MiP,3,заказали,Plur.Past,_,_,_,_
+заказывать,1736,_,V,A2,"Golosa, MiP, LM",1,заказывали,Plur.Past,_,_,_,_
+заказывать,1737,_,V,A2,"Golosa, MiP, LM",2,заказывал,Masc.Sing.Past,_,_,_,_
+заказывать,1738,_,V,A2,"Golosa, MiP, LM",3,заказывать,Inf,_,_,_,_
+заканчивать,1739,_,V,A2,"Golosa, LM",1,заканчивала,Fem.Sing.Past,_,_,_,_
+заканчивать,1740,_,V,A2,"Golosa, LM",2,заканчивал,Masc.Sing.Past,_,_,_,_
+заканчивать,1741,_,V,A2,"Golosa, LM",3,заканчивая,Pres/Fut,_,_,_,_
+закон,1742,_,N.Masc.Inan,A2,LM,1,закон,Nom.Sing,_,_,_,_
+закон,1743,_,N.Masc.Inan,A2,LM,2,закона,Gen.Sing,_,_,_,_
+закон,1744,_,N.Masc.Inan,A2,LM,3,законов,Gen.Plur,_,_,_,_
+закрывать,1745,_,V,A2,LM,1,закрывают,Plur.3.Pres/Fut,_,_,_,_
+закрывать,1746,_,V,A2,LM,2,закрывать,Inf,_,_,_,_
+закрывать,1747,_,V,A2,LM,3,закрывал,Masc.Sing.Past,_,_,_,_
+зал,1748,_,N.Masc.Inan,A2,"Golosa, MiP, LM",1,зале,Loc.Sing,_,_,_,_
+зал,1749,_,N.Masc.Inan,A2,"Golosa, MiP, LM",2,зал,Acc.Sing,_,_,_,_
+зал,1750,_,N.Masc.Inan,A2,"Golosa, MiP, LM",3,зала,Gen.Sing,_,_,_,_
+замена,1751,_,N.Fem.Inan,A2,LM,1,замены,Gen.Sing,_,_,_,_
+замена,1752,_,N.Fem.Inan,A2,LM,2,замена,Nom.Sing,_,_,_,_
+замена,1753,_,N.Fem.Inan,A2,LM,3,замену,Acc.Sing,_,_,_,_
+замечательный,1754,_,A,A2,LM,1,замечательный,Nom.Masc.Sing,_,_,_,_
+замечательный,1755,_,A,A2,LM,2,замечательная,Nom.Fem.Sing,_,_,_,_
+замечательный,1756,_,A,A2,LM,3,замечательных,Gen.Plur,_,_,_,_
+замечать,1757,_,V,A2,LM,1,замечает,Sing.3.Pres/Fut,_,_,_,_
+замечать,1758,_,V,A2,LM,2,замечал,Masc.Sing.Past,_,_,_,_
+замечать,1759,_,V,A2,LM,3,замечать,Inf,_,_,_,_
+заниматься,1760,_,V,A2,"Golosa, MiP, LM",1,заниматься,Inf,_,_,_,_
+заниматься,1761,_,V,A2,"Golosa, MiP, LM",2,занимается,Sing.3.Pres/Fut,_,_,_,_
+заниматься,1762,_,V,A2,"Golosa, MiP, LM",3,занимался,Masc.Sing.Past,_,_,_,_
+занятие,1763,_,N.Neut.Inan,A2,"Golosa, LM",1,занятия,Nom.Plur,_,_,_,_
+занятие,1764,_,N.Neut.Inan,A2,"Golosa, LM",2,занятий,Gen.Plur,_,_,_,_
+занятие,1765,_,N.Neut.Inan,A2,"Golosa, LM",3,занятие,Nom.Sing,_,_,_,_
+запад,1766,_,N.Masc.Inan,A2,"Golosa, MiP, LM",1,запад,Acc.Sing,_,_,_,_
+запад,1767,_,N.Masc.Inan,A2,"Golosa, MiP, LM",2,западе,Loc.Sing,_,_,_,_
+запад,1768,_,N.Masc.Inan,A2,"Golosa, MiP, LM",3,западом,Ins.Sing,_,_,_,_
+западный,1769,_,A,A2,LM,1,западных,Gen.Plur,_,_,_,_
+западный,1770,_,A,A2,LM,2,западные,Nom.Plur,_,_,_,_
+западный,1771,_,A,A2,LM,3,западном,Loc.Masc.Sing,_,_,_,_
+заплатить,1772,_,V,A2,"MiP, LM",1,заплатить,Inf,_,_,_,_
+заплатить,1773,_,V,A2,"MiP, LM",2,заплатил,Masc.Sing.Past,_,_,_,_
+заплатить,1774,_,V,A2,"MiP, LM",3,заплатили,Plur.Past,_,_,_,_
+зарабатывать,1775,_,V,A2,"MiP, LM",1,зарабатывать,Inf,_,_,_,_
+зарабатывать,1776,_,V,A2,"MiP, LM",2,зарабатывает,Sing.3.Pres/Fut,_,_,_,_
+зарабатывать,1777,_,V,A2,"MiP, LM",3,зарабатывают,Plur.3.Pres/Fut,_,_,_,_
+заработать,1778,_,V,A2,MiP,1,заработать,Inf,_,_,_,_
+заработать,1779,_,V,A2,MiP,2,заработал,Masc.Sing.Past,_,_,_,_
+заработать,1780,_,V,A2,MiP,3,заработает,Sing.3.Pres/Fut,_,_,_,_
+звать,1781,_,V,A2,"Golosa, MiP, LM",1,зовут,Plur.3.Pres/Fut,_,_,_,_
+звать,1782,_,V,A2,"Golosa, MiP, LM",2,звали,Plur.Past,_,_,_,_
+звать,1783,_,V,A2,"Golosa, MiP, LM",3,звать,Inf,_,_,_,_
+звонок,1784,_,N.Masc.Inan,A2,"MiP, LM",1,звонок,Nom.Sing,_,_,_,_
+звонок,1785,_,N.Masc.Inan,A2,"MiP, LM",2,звонков,Gen.Plur,_,_,_,_
+звонок,1786,_,N.Masc.Inan,A2,"MiP, LM",3,звонки,Acc.Plur,_,_,_,_
+звук,1787,_,N.Masc.Inan,A2,"Golosa, LM",1,звуков,Gen.Plur,_,_,_,_
+звук,1788,_,N.Masc.Inan,A2,"Golosa, LM",2,звука,Gen.Sing,_,_,_,_
+звук,1789,_,N.Masc.Inan,A2,"Golosa, LM",3,звук,Nom.Sing,_,_,_,_
+земля,1790,_,N.Fem.Inan,A2,LM,1,землю,Acc.Sing,_,_,_,_
+земля,1791,_,N.Fem.Inan,A2,LM,2,земли,Gen.Sing,_,_,_,_
+земля,1792,_,N.Fem.Inan,A2,LM,3,земле,Loc.Sing,_,_,_,_
+зеркало,1793,_,N.Neut.Inan,A2,LM,1,зеркало,Acc.Sing,_,_,_,_
+зеркало,1794,_,N.Neut.Inan,A2,LM,2,зеркале,Loc.Sing,_,_,_,_
+зеркало,1795,_,N.Neut.Inan,A2,LM,3,зеркала,Gen.Sing,_,_,_,_
+зимний,1796,_,A,A2,"MiP, LM",1,зимнее,Inan.Acc.Neut.Sing,_,_,_,_
+зимний,1797,_,A,A2,"MiP, LM",2,зимних,Gen.Plur,_,_,_,_
+зимний,1798,_,A,A2,"MiP, LM",3,зимняя,Nom.Fem.Sing,_,_,_,_
+злой,1799,_,A,A2,"LM, Кс",1,злые,Nom.Plur,_,_,_,_
+злой,1800,_,A,A2,"LM, Кс",2,злых,Gen.Plur,_,_,_,_
+злой,1801,_,A,A2,"LM, Кс",3,злая,Nom.Fem.Sing,_,_,_,_
+знак,1802,_,N.Masc.Inan,A2,LM,1,знак,Nom.Sing,_,_,_,_
+знак,1803,_,N.Masc.Inan,A2,LM,2,знака,Gen.Sing,_,_,_,_
+знак,1804,_,N.Masc.Inan,A2,LM,3,знаком,Ins.Sing,_,_,_,_
+знакомиться,1805,_,V,A2,"MiP, LM",1,знакомиться,Inf,_,_,_,_
+знакомиться,1806,_,V,A2,"MiP, LM",2,знакомимся,Plur.1.Pres/Fut,_,_,_,_
+знакомиться,1807,_,V,A2,"MiP, LM",3,знакомится,Sing.3.Pres/Fut,_,_,_,_
+знакомый,1808,_,A,A2,"Golosa, MiP, LM",1,знакомы,Plur,_,_,_,_
+знакомый,1809,_,N.Masc.Anim,A2,"Golosa, MiP, LM",2,знакомых,Gen.Plur,_,_,_,_
+знакомый,1810,_,N.Masc.Anim,A2,"Golosa, MiP, LM",3,знакомые,Nom.Plur,_,_,_,_
+значение,1811,_,N.Neut.Inan,A2,LM,1,значение,Acc.Sing,_,_,_,_
+значение,1812,_,N.Neut.Inan,A2,LM,2,значения,Gen.Sing,_,_,_,_
+значение,1813,_,N.Neut.Inan,A2,LM,3,значений,Gen.Plur,_,_,_,_
+значить,1814,_,V,A2,"MiP, LM",1,значит,Sing.3.Pres/Fut,_,_,_,_
+значить,1815,_,V,A2,"MiP, LM",2,значило,Neut.Sing.Past,_,_,_,_
+значить,1816,_,V,A2,"MiP, LM",3,значат,Plur.3.Pres/Fut,_,_,_,_
+золото,1817,_,N.Neut.Inan,A2,LM,1,золота,Gen.Sing,_,_,_,_
+золото,1818,_,N.Neut.Inan,A2,LM,2,золото,Acc.Sing,_,_,_,_
+золото,1819,_,N.Neut.Inan,A2,LM,3,золотом,Ins.Sing,_,_,_,_
+золотой,1820,_,A,A2,LM,1,золотую,Acc.Fem.Sing,_,_,_,_
+золотой,1821,_,A,A2,LM,2,золотой,Nom.Masc.Sing,_,_,_,_
+золотой,1822,_,A,A2,LM,3,золотое,Nom.Neut.Sing,_,_,_,_
+зонтик,1823,_,N.Masc.Inan,A2,LM,1,зонтик,Nom.Sing,_,_,_,_
+зонтик,1824,_,N.Masc.Inan,A2,LM,2,зонтики,Acc.Plur,_,_,_,_
+зонтик,1825,_,N.Masc.Inan,A2,LM,3,зонтиком,Ins.Sing,_,_,_,_
+зуб,1826,_,N.Masc.Inan,A2,"Golosa, LM",1,зуб,Nom.Sing,_,_,_,_
+зуб,1827,_,N.Masc.Inan,A2,"Golosa, LM",2,зубы,Acc.Plur,_,_,_,_
+зуб,1828,_,N.Masc.Inan,A2,"Golosa, LM",3,зубами,Ins.Plur,_,_,_,_
+игрушка,1829,_,N.Fem.Inan,A2,"Golosa, LM, Поехали",1,игрушки,Acc.Plur,_,_,_,_
+игрушка,1830,_,N.Fem.Inan,A2,"Golosa, LM, Поехали",2,игрушек,Gen.Plur,_,_,_,_
+игрушка,1831,_,N.Fem.Inan,A2,"Golosa, LM, Поехали",3,игрушку,Acc.Sing,_,_,_,_
+извинить,1832,_,V,A2,MiP,1,извините,Imper.Plur.2,_,_,_,_
+извинить,1833,_,V,A2,MiP,2,извини,Imper.Sing.2,_,_,_,_
+извинить,1834,_,V,A2,MiP,3,извинить,Inf,_,_,_,_
+извинять,1835,_,A,A2,LM,1,извиняющую,Acc.Fem.Sing,_,_,_,_
+изменять,1836,_,V,A2,LM,1,изменять,Inf,_,_,_,_
+изменять,1837,_,V,A2,LM,2,изменяет,Sing.3.Pres/Fut,_,_,_,_
+изменять,1838,_,V,A2,LM,3,изменяют,Plur.3.Pres/Fut,_,_,_,_
+изучать,1839,_,V,A2,"Golosa, MiP, LM",1,изучать,Inf,_,_,_,_
+изучать,1840,_,V,A2,"Golosa, MiP, LM",2,изучал,Masc.Sing.Past,_,_,_,_
+изучать,1841,_,V,A2,"Golosa, MiP, LM",3,изучали,Plur.Past,_,_,_,_
+институт,1842,_,N.Masc.Inan,A2,"Golosa, LM",1,института,Gen.Sing,_,_,_,_
+институт,1843,_,N.Masc.Inan,A2,"Golosa, LM",2,институт,Acc.Sing,_,_,_,_
+институт,1844,_,N.Masc.Inan,A2,"Golosa, LM",3,институте,Loc.Sing,_,_,_,_
+интерес,1845,_,N.Masc.Inan,A2,LM,1,интерес,Acc.Sing,_,_,_,_
+интерес,1846,_,N.Masc.Inan,A2,LM,2,интересы,Acc.Plur,_,_,_,_
+интерес,1847,_,N.Masc.Inan,A2,LM,3,интересов,Gen.Plur,_,_,_,_
+интересоваться,1848,_,V,A2,"Golosa, MiP, LM",1,интересуется,Sing.3.Pres/Fut,_,_,_,_
+интересоваться,1849,_,V,A2,"Golosa, MiP, LM",2,интересоваться,Inf,_,_,_,_
+интересоваться,1850,_,V,A2,"Golosa, MiP, LM",3,интересуются,Plur.3.Pres/Fut,_,_,_,_
+искать,1851,_,V,A2,"Golosa, LM",1,искать,Inf,_,_,_,_
+искать,1852,_,V,A2,"Golosa, LM",2,искал,Masc.Sing.Past,_,_,_,_
+искать,1853,_,V,A2,"Golosa, LM",3,ищет,Sing.3.Pres/Fut,_,_,_,_
+исследовать,1854,_,V,A2,LM,1,исследовать,Inf,_,_,_,_
+исследовать,1855,_,V,A2,LM,2,исследовал,Masc.Sing.Past,_,_,_,_
+исследовать,1856,_,A,A2,LM,3,исследуемых,Gen.Plur,_,_,_,_
+казаться,1857,_,V,A2,"MiP, LM",1,кажется,Sing.3.Pres/Fut,_,_,_,_
+казаться,1858,_,V,A2,"MiP, LM",2,казалось,Neut.Sing.Past,_,_,_,_
+казаться,1859,_,V,A2,"MiP, LM",3,казаться,Inf,_,_,_,_
+каникулы,1860,_,N.Inan,A2,"Golosa, LM",1,каникулы,Acc.Plur,_,_,_,_
+каникулы,1861,_,N.Inan,A2,"Golosa, LM",2,каникулах,Loc.Plur,_,_,_,_
+каникулы,1862,_,N.Inan,A2,"Golosa, LM",3,каникул,Gen.Plur,_,_,_,_
+картофель,1863,_,N.Masc.Inan,A2,"Golosa, LM, Поехали",1,картофеля,Gen.Sing,_,_,_,_
+картофель,1864,_,N.Masc.Inan,A2,"Golosa, LM, Поехали",2,картофель,Nom.Sing,_,_,_,_
+картофель,1865,_,N.Masc.Inan,A2,"Golosa, LM, Поехали",3,картофелем,Ins.Sing,_,_,_,_
+каша,1866,_,N.Fem.Inan,A2,"Golosa, MiP, LM",1,кашу,Acc.Sing,_,_,_,_
+каша,1867,_,N.Fem.Inan,A2,"Golosa, MiP, LM",2,каша,Nom.Sing,_,_,_,_
+каша,1868,_,N.Fem.Inan,A2,"Golosa, MiP, LM",3,кашей,Ins.Sing,_,_,_,_
+класть,1869,_,V,A2,"Golosa, MiP, LM",1,класть,Inf,_,_,_,_
+класть,1870,_,V,A2,"Golosa, MiP, LM",2,кладёт,Sing.3.Pres/Fut,_,_,_,_
+класть,1871,_,V,A2,"Golosa, MiP, LM",3,кладут,Plur.3.Pres/Fut,_,_,_,_
+команда,1872,_,N.Fem.Inan,A2,"Golosa, LM",1,команды,Gen.Sing,_,_,_,_
+команда,1873,_,N.Fem.Inan,A2,"Golosa, LM",2,команда,Nom.Sing,_,_,_,_
+команда,1874,_,N.Fem.Inan,A2,"Golosa, LM",3,команду,Acc.Sing,_,_,_,_
+компьютерный,1875,_,A,A2,"Golosa, LM",1,компьютерной,Gen.Fem.Sing,_,_,_,_
+компьютерный,1876,_,A,A2,"Golosa, LM",2,компьютерных,Gen.Plur,_,_,_,_
+компьютерный,1877,_,A,A2,"Golosa, LM",3,компьютерный,Nom.Masc.Sing,_,_,_,_
+кончаться,1878,_,V,A2,"Golosa, MiP, LM",1,кончается,Sing.3.Pres/Fut,_,_,_,_
+кончаться,1879,_,A,A2,"Golosa, MiP, LM",2,кончающийся,Inan.Acc.Masc.Sing,_,_,_,_
+кончаться,1880,_,V,A2,"Golosa, MiP, LM",3,кончаются,Plur.3.Pres/Fut,_,_,_,_
+кончиться,1881,_,V,A2,MiP,1,кончилось,Neut.Sing.Past,_,_,_,_
+кончиться,1882,_,V,A2,MiP,2,кончится,Sing.3.Pres/Fut,_,_,_,_
+кончиться,1883,_,V,A2,MiP,3,кончилась,Fem.Sing.Past,_,_,_,_
+корабль,1884,_,N.Masc.Inan,A2,LM,1,корабль,Nom.Sing,_,_,_,_
+корабль,1885,_,N.Masc.Inan,A2,LM,2,кораблей,Gen.Plur,_,_,_,_
+корабль,1886,_,N.Masc.Inan,A2,LM,3,корабли,Acc.Plur,_,_,_,_
+коридор,1887,_,N.Masc.Inan,A2,"Golosa, MiP, LM",1,коридоре,Loc.Sing,_,_,_,_
+коридор,1888,_,N.Masc.Inan,A2,"Golosa, MiP, LM",2,коридор,Acc.Sing,_,_,_,_
+коридор,1889,_,N.Masc.Inan,A2,"Golosa, MiP, LM",3,коридору,Dat.Sing,_,_,_,_
