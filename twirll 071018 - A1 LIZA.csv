@@ -1,0 +1,486 @@
+Lemma,ID,Eng Gloss,POS,Level,Word source,Ex. ID,Form,Analysis,Example Sentence,Translation,Reference,Topic(s)
+трамвай,943,tram,N.Masc.Inan,A1,"MiP, МН",1,трамвай,Acc.Sing,Он сел в трамвай и поехал домой.,He got on the tram and rode home.,_,путешествие
+трамвай,944,tram,N.Masc.Inan,A1,"MiP, МН",2,трамвая,Gen.Sing,Я хочу стать водителем трамвая.,I want to become a tram driver.,_,путешествие
+трамвай,945,tram,N.Masc.Inan,A1,"MiP, МН",3,трамваи,Nom.Plur,Слишком поздно. Трамваи не ходят.,It's too late. The trams aren't running.,_,путешествие
+килограмм,946,kilogram,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,килограмма,Gen.Sing,Я купила два килограмма яблок.,I bought two kilos of apples.,_,мера
+килограмм,947,kilogram,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,килограмм,Nom.Sing,Килограмм брокколи стоит сто рублей.,A kilogram of broccoli costs a hundred rubles.,_,мера
+килограмм,948,kilogram,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,килограммов,Gen.Plur,Мой рюкзак весит восемь килограммов.,My backpack weights eight kilograms.,_,мера
+активный,949,active,A,A1,МН,1,активных,Gen.Plur,Эта работа подходит для активных людей.,This work is suitable for active people.,_,"люди, описание"
+активный,950,active,A,A1,МН,2,активную,Acc.Fem.Sing,Аудитория играет активную роль в жизни артиста.,The audience plays an active role in a performert's life.,_,"люди, описание"
+активный,951,active,A,A1,МН,3,активной,Gen.Fem.Sing,Маша устала от активной жизни.,Masha got tired of her active life.,_,"люди, описание"
+парк,952,park,N.Masc.Inan,A1,"LM, МН",1,парке,Loc.Sing,Моя мама любит гулять в парке вечером.,My mother likes walking in the park in the evening.,_,свободное время
+парк,953,park,N.Masc.Inan,A1,"LM, МН",2,парк,Acc.Sing,После школы девочки пошли в парк.,After school the girls went to the park.,_,свободное время
+парк,954,park,N.Masc.Inan,A1,"LM, МН",3,парка,Gen.Sing,Фестиваль чая пройдёт на территории Парка Горького.,The Tea Festival will take place on the grounds of Gorky Park.,_,свободное время
+бизнесмен,955,businessman,N.Masc.Anim,A1,"Golosa, MiP, LM, МН, Поехали",1,бизнесменов,Gen.Plur,Новый закон защищает интересы бизнесменов.,The new law protects the interests of businessmen.,_,"люди, работа"
+бизнесмен,956,businessman,N.Masc.Anim,A1,"Golosa, MiP, LM, МН, Поехали",2,бизнесмен,Nom.Sing,Бизнесмен должен быть честным.,A businessman has to be honest.,_,"люди, работа"
+бизнесмен,957,businessman,N.Masc.Anim,A1,"Golosa, MiP, LM, МН, Поехали",3,бизнесмены,Nom.Plur,Российские бизнесмены протестуют против повышения налогов.,Russian businessmen are protesting against a tax increase.,_,"люди, работа"
+музей,958,museum,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,музея,Gen.Sing,Работники музея могут посещать выставки бесплатно.,Museum workers can go to the exhibitions for free.,_,свободное время
+музей,959,museum,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,музее,Loc.Sing,В этом музее есть скелет синего кита.,There is a skeleton of a blue whale in this museum.,_,свободное время
+музей,960,museum,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,музей,Nom.Sing,Музей Москвы был открыт в девятнадцатом веке.,The Moscow Museum opened in the nineteenth century.,_,свободное время
+богатый,961,rich,A,A1,"LM, МН",1,богатый,Nom.Masc.Sing,"Саша – богатый человек, но скромный.",Sasha is a rich man but a modest one.,_,"люди, мера"
+богатый,962,rich,A,A1,"LM, МН",2,богатых,Gen.Plur,Жизнь в центре города – удовольствие только для богатых людей.,Living in the city centre is a pleasure for rich people only.,_,"люди, мера"
+богатый,963,rich,A,A1,"LM, МН",3,богатым,Ins.Masc.Sing,Я совсем не хочу быть богатым.,I don't want to be rich at all.,_,"люди, мера"
+экзамен,964,exam,N.Masc.Inan,A1,"LM, МН",1,экзамен,Acc.Sing,Эта группа не сдаст экзамен по химии.,This group won't pass the chemistry exam.,_,учёба/работа
+экзамен,965,exam,N.Masc.Inan,A1,"LM, МН",2,экзамены,Acc.Plur,Летом мы сдаём экзамены по всем предметам.,In summer we have exams in all subjects. ,_,учёба/работа
+экзамен,966,exam,N.Masc.Inan,A1,"LM, МН",3,экзаменов,Gen.Plur,После экзаменов я собираюсь спать три дня.,After the exams I am going to sleep for three days.,_,учёба/работа
+масло,967,butter,N.Neut.Inan,A1,"Golosa, MiP, LM, МН",1,маслом,Ins.Sing,Он всегда ест хлеб с маслом на завтрак.,He always has bread and butter for breakfast.,_,еда
+масло,968,oil,N.Neut.Inan,A1,"Golosa, MiP, LM, МН",2,масла,Gen.Sing,Нужно добавить в салат больше оливкового масла.,You need to add more olive oil to the salad.,_,еда
+масло,969,butter,N.Neut.Inan,A1,"Golosa, MiP, LM, МН",3,масло,Nom.Sing,"Дома закончилось сливочное масло, нужно купить."," There’s no more butter in the house, we need to buy some.",_,еда
+масло,970,,,,,,,,,,,
+масло,971,,,,,,,,,,,
+масло,972,,,,,,,,,,,
+немец,973,German,N.Masc.Anim,A1,"LM, МН, Кс",1,немцы,Nom.Plur,Немцы любят пиво.,Gemans like beer.,_,"люди, политика"
+немец,974,German,N.Masc.Anim,A1,"LM, МН, Кс",2,немцев,Gen.Plur,В моём университете много немцев.,There are many Germans at my university.,_,"люди, политика"
+немец,975,German,N.Masc.Anim,A1,"LM, МН, Кс",3,немец,Nom.Sing,"В его анекдотах всегда есть русский, француз и немец.","His jokes are always about a Russian, a Frenchman and a German.",_,"люди, политика"
+ложка,976,spoon,N.Fem.Inan,A1,МН,1,ложку,Acc.Sing,Я кладу в чай одну ложку сахара.,I put a spoonful of sugar in my tea.,_,"еда, жильё"
+ложка,977,spoon,N.Fem.Inan,A1,МН,2,ложкой,Ins.Sing,Маленький мальчик ест суп большой ложкой.,The little boy eats soup with a big spoon.,_,"еда, жильё"
+ложка,978,spoon,N.Fem.Inan,A1,МН,3,ложки,Gen.Sing,Здесь нет ложки.,There is no spoon.,The Matrix (1999),"еда, жильё"
+левый,979,left,A,A1,"MiP, МН",1,левую,Acc.Fem.Sing,Он положил левую руку мне на плечо.,He put his left hand on my shoulder.,_,"люди, описание"
+левый,980,left,N.Masc.Anim,A1,"MiP, МН",2,левые,Nom.Plur,Левые не получают поддержки от правительства Российской Федерации.,Leftists don't get support from the government of the Russian Federation.,_,политика
+левый,981,left,A,A1,"MiP, МН",3,левой,Gen.Fem.Sing,Маша пишет левой рукой.,Masha writes with her left hand.,_,"люди, описание"
+левый,982,,,,,,,,,,,
+левый,983,,,,,,,,,,,
+левый,984,,,,,,,,,,,
+комедия,985,comedy,N.Fem.Inan,A1,"MiP, LM, МН",1,комедия,Nom.Sing,"Это комедия, в ней никто не умирает.","This is a comedy, so nobody dies.",_,свободное время
+комедия,986,comedy,N.Fem.Inan,A1,"MiP, LM, МН",2,комедии,Gen.Sing,Я читал это в комедии Шекспира.,I read it in a comedy by Shakespeare.,_,свободное время
+комедия,987,comedy,N.Fem.Inan,A1,"MiP, LM, МН",3,комедию,Acc.Sing,Я останусь дома и посмотрю хорошую комедию.,I’ll stay at home and watch a good comedy.,_,свободное время
+понравиться,988,please,V,A1,"LM, МН",1,понравилось,Neut.Sing.Past,Мне понравилось это вино.,I really like this wine.,_,внутренний мир
+понравиться,989,please,V,A1,"LM, МН",2,понравился,Masc.Sing.Past,Моему брату не понравился мой новый друг.,My brother didn't like my new friend.,_,внутренний мир
+понравиться,990,please,V,A1,"LM, МН",3,понравилась,Fem.Sing.Past,София сразу мне понравилась.,I liked Sophia at once.,_,внутренний мир
+футбол,991,soccer,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,футбол,Acc.Sing,На перемене мы обычно играем в футбол или пинг-понг.,During the break we always play soccer or ping-pong.,_,свободное время
+футбол,992,soccer,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,футбола,Gen.Sing,Никакого футбола в моём дворе!,No soccer in my yard!,_,свободное время
+футбол,993,soccer,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,футболу,Dat.Sing,В 2018 чемпионат мира по футболу прошёл в России.,In 2018 the World Soccer Cup was held in Russia.,_,свободное время
+пообедать,988,eat lunch,V,A1,"Golosa, MiP, LM, МН",1,пообедали,Plur.Past,Мы пообедали в новом кафе.,We ate lunch in the new cafe.,_,еда
+пообедать,989,eat lunch,V,A1,"Golosa, MiP, LM, МН",2,пообедать,Inf,После работы мы решили вместе пообедать.,After work we decided to eat lunch together.,_,еда
+пообедать,990,eat lunch,V,A1,"Golosa, MiP, LM, МН",3,пообедаем,Plur.1.Pres/Fut,"Мы с Марией пообедаем вместе, а потом пойдём в кино.",Maria and I are going to eat lunch and then go to the movie theater.,_,еда
+салат,991,lettuce,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,салата,Gen.Sing,"Например, ты можешь положить в сэндвич лист салата.","For example, you can put a lettuce leaf in the sandwich.",_,еда
+салат,992,salad,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,салат,Acc.Sing,Папа сегодня готовит свой любимый салат.,Today Dad is making his favorite salad.,_,еда
+салат,993,salad,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,салатов,Gen.Plur,На Новый Год люди обычно готовят пять или шесть разных салатов.,For the New Year celebration people usually prepare five or six different salads. ,_,еда
+салат,994,,,,,,,,,,,
+салат,995,,,,,,,,,,,
+салат,996,,,,,,,,,,,
+стадион,997,stadium,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,стадиона,Gen.Sing,Друзья будут ждать меня у стадиона.,My friends will wait for me outside the stadium.,_,свободное время
+стадион,998,stadium,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,стадионе,Loc.Sing,"На стадионе ""Лужники"" пройдёт следующий матч чемпионата мира.",The next World Cup will be held in the Luzhniki stadium.,_,свободное время
+стадион,999,stadium,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,стадион,Nom.Sing,Стадион был построен в 2014 году.,The stadium was built in 2014.,_,свободное время
+ключ,1000,key,N.Masc.Inan,A1,"MiP, LM, МН",1,ключ,Acc.Sing,Я ушла и заперла дверь на ключ.,I left and locked the door with the key.,_,жильё 
+ключ,1001,key,N.Masc.Inan,A1,"MiP, LM, МН",2,ключи,Acc.Plur,"Кажется, я забыл ключи.",It seems I forgot the keys.,_,жильё 
+ключ,1002,key,N.Masc.Inan,A1,"MiP, LM, МН",3,ключом,Ins.Sing,Мама откроет дверь своим ключом.,Mom will open the door with her key.,_,жильё 
+яйцо,1003,egg,N.Neut.Inan,A1,"Golosa, MiP, МН",1,яиц,Gen.Plur,Я купила десяток яиц.,I bought ten eggs.,_,еда
+яйцо,1004,egg,N.Neut.Inan,A1,"Golosa, MiP, МН",2,яйца,Acc.Plur,Папа достал из холодильника яйца и помидоры.,Dad took eggs and tomatoes out of the refrigerator.,_,еда
+яйцо,1005,egg,N.Neut.Inan,A1,"Golosa, MiP, МН",3,яйцо,Acc.Sing,На завтрак я съел яйцо.,For breakfast I ate an egg.,_,еда
+марка,1003,brand,N.Fem.Inan,A1,"LM, МН",1,марки,Gen.Sing,Я не покупаю одежду этой марки.,I don't buy this brand of clothes.,_,_
+марка,1004,stamp,N.Fem.Inan,A1,"LM, МН",2,марок,Gen.Plur,У меня большая коллекция марок.,I have a big stamp collection.,_,общение
+марка,1005,brand,N.Fem.Inan,A1,"LM, МН",3,марку,Acc.Sing,Моя сестра предпочитает другую марку пива.,My sister prefers another brand of beer.,_,_
+марка,1006,,,,,,,,,,,
+марка,1007,,,,,,,,,,,
+марка,1008,,,,,,,,,,,
+попросить,1009,ask for,V,A1,"LM, МН",1,попросил,Masc.Sing.Past,Брат попросил у меня деньги на обед.,My brother asked me for money to buy lunch.,_,"люди, общение"
+попросить,1010,ask for,V,A1,"LM, МН",2,попросить,Inf,Я хотела попросить у него денег.,I wanted to ask him for money.,_,"люди, общение"
+попросить,1011,ask for,V,A1,"LM, МН",3,попросила,Fem.Sing.Past,"Саша, мама попросила тебя помыть посуду.","Sasha, Mom asked you to wash the dishes.",_,"люди, общение"
+цирк,1012,circus,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,цирка,Gen.Sing,Я хочу взять интервью у артиста цирка.,I want to interview a circus performer.,_,свободное время
+цирк,1013,circus,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,цирке,Loc.Sing,"Работа в цирке тяжёлая, но интересная.",Working in the circus is hard but interesting,_,свободное время
+цирк,1014,circus,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,цирк,Nom.Sing,Этот цирк великолепен!,This circus is incredible!,_,свободное время
+обед,1015,lunch,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,обеда,Gen.Sing,После обеда я всегда хочу спать.,After lunch I always want to sleep.,_,еда
+обед,1016,lunch,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,обед,Nom.Sing,Обед начинается в два часа.,Lunch starts at two o'clock.,_,еда
+обед,1017,lunch,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,обеду,Dat.Sing,"Думаю, мы вернёмся к обеду.",I think we're going to come back before lunch.,_,еда
+грамм,1018,gram,N.Masc.Inan,A1,"Golosa, MiP, МН",1,грамм,Gen.Plur,Я положила в торт двести грамм сахара.,I put 200 g of sugar in the cake.,_,мера
+грамм,1019,gram,N.Masc.Inan,A1,"Golosa, MiP, МН",2,граммов,Gen.Plur,Каждый из нас выпил сто граммов водки.,Each of us drank 100 grams of vodka.,_,мера
+грамм,1020,gram,N.Masc.Inan,A1,"Golosa, MiP, МН",3,грамма,Gen.Sing,,,_,мера
+гостиница,1021,hotel,N.Fem.Inan,A1,"MiP, LM, МН",1,гостинице,Loc.Sing,Мы остановимся в гостинице на площади Восстания.,We are staying in the hotel on Vosstaniya Square.,_,"путешествие, жильё"
+гостиница,1022,hotel,N.Fem.Inan,A1,"MiP, LM, МН",2,гостиница,Nom.Sing,Наша гостиница была ужасна.,Our hotel was terrible.,_,"путешествие, жильё"
+гостиница,1023,hotel,N.Fem.Inan,A1,"MiP, LM, МН",3,гостиницы,Gen.Sing,Мы выезжаем из гостиницы в восемь утра.,We're leaving the hotel at 8 in the morning.,_,"путешествие, жильё"
+нож,1024,knife,N.Masc.Inan,A1,МН,1,ножом,Ins.Sing,Он всегда ходит с ножом.,He always carries a knife.,_,жильё
+нож,1025,knife,N.Masc.Inan,A1,МН,2,нож,Acc.Sing,Я не могу найти нож.,I can't find a knife.,_,жильё
+нож,1026,knife,N.Masc.Inan,A1,МН,3,ножи,Acc.Plur,Мы купили новые ножи на кухню.,We bought new kitchen knives.,_,жильё
+спорт,1027,sport,N.Masc.Inan,A1,"Golosa, MiP, МН",1,спорта,Gen.Sing,Мой старший брат – мастер спорта по боксу.,My big brother is a master of sports in boxing.,_,свободное время
+спорт,1028,sport,N.Masc.Inan,A1,"Golosa, MiP, МН",2,спортом,Ins.Sing,Заниматься спортом полезно для здоровья.,Playing sports is good for one's health.,_,свободное время
+спорт,1029,sport,N.Masc.Inan,A1,"Golosa, MiP, МН",3,спорте,Loc.Sing,Я ничего не понимаю в спорте.,I don't understand anything about sports.,_,свободное время
+рубашка,1027,shirt,N.Fem.Inan,A1,"Golosa, MiP, МН, Кс",1,рубашка,Nom.Sing,Какая у тебя красивая рубашка!,What a lovely shirt you have!,_,люди
+рубашка,1028,shirt,N.Fem.Inan,A1,"Golosa, MiP, МН, Кс",2,рубашку,Acc.Sing,"Было жарко, и я снял рубашку.","It was hot, so I took off my shirt.",_,люди
+рубашка,1029,shirt,N.Fem.Inan,A1,"Golosa, MiP, МН, Кс",3,рубашки,Gen.Sing,Машенька положила конфету в карман рубашки.,Mashenka put a candy in her shirt pocket.,_,люди
+медицина,1030,medicine,N.Fem.Inan,A1,"Golosa, MiP, МН",1,медицине,Loc.Sing,Это вещество используют в медицине.,_,_,здоровье
+медицина,1031,medicine,N.Fem.Inan,A1,"Golosa, MiP, МН",2,медицина,Nom.Sing,Медицина в России — бесплатная.,_,_,здоровье
+медицина,1032,medicine,N.Fem.Inan,A1,"Golosa, MiP, МН",3,медицины,Gen.Sing,Развитие медицины — важная задача.,_,_,здоровье
+остановка,1033,stop,N.Fem.Inan,A1,"MiP, LM, МН",1,остановка,Nom.Sing,Следующая остановка — «площадь Восстания».,_,_,"транспорт, путешествие"
+остановка,1034,stop,N.Fem.Inan,A1,"MiP, LM, МН",2,остановке,Loc.Sing,Приходи! Я жду тебя на остановке.,_,_,"транспорт, путешествие"
+остановка,1035,stop,N.Fem.Inan,A1,"MiP, LM, МН",3,остановок,Gen.Plur,Через пять остановок я вышел из автобуса.,_,_,"транспорт, путешествие"
+немецкий,1036,German,A,A1,"Golosa, MiP, LM, МН",1,немецких,Gen.Plur,В Москве много немецких туристов.,_,_,"политика, описание"
+немецкий,1037,German,A,A1,"Golosa, MiP, LM, МН",2,немецкого,Gen.Masc.Sing,Маша — преподаватель немецкого языка.,_,_,"политика, описание"
+немецкий,1038,German,A,A1,"Golosa, MiP, LM, МН",3,немецкий,Inan.Acc.Masc.Sing,"Я учил немецкий в школе, но уже ничего не помню.",_,_,"политика, описание"
+зеленый,1039,green,A,A1,"LM, МН",1,зелёный,Nom.Masc.Sing,Мне нравится зелёный чай с мятой.,_,_,"описание, животные/растения"
+зеленый,1040,green,A,A1,"LM, МН",2,зелёные,Nom.Plur,У Оли зелёные глаза и черные волосы.,_,_,"описание, животные/растения"
+зеленый,1041,green,A,A1,"LM, МН",3,зелёной,Gen.Fem.Sing,Купи зелёной краски! Мы красим стены в доме.,_,_,"описание, животные/растения"
+учительница,1042,teacher,N.Fem.Anim,A1,"Golosa, MiP, LM, МН",1,учительницы,Gen.Sing,День рождения нашей учительницы — в апреле.,_,_,"учеба/работа, люди"
+учительница,1043,teacher,N.Fem.Anim,A1,"Golosa, MiP, LM, МН",2,учительница,Nom.Sing,"Наша учительница строгая, но справедливая.",_,_,"учеба/работа, люди"
+учительница,1044,teacher,N.Fem.Anim,A1,"Golosa, MiP, LM, МН",3,учительнице,Dat.Sing,"Вчера я позвонил учительнице, потому что не пришёл на урок.",_,_,"учеба/работа, люди"
+родной,1045,native,A,A1,"LM, МН",1,родной,Nom.Masc.Sing,Какой у вас родной язык?,_,_,"люди, политика"
+родной,1046,native,A,A1,"LM, МН",2,родном,Loc.Masc.Sing,Мне всегда уютно в моём родном городе.,_,_,"люди, политика"
+родной,1047,native,A,A1,"LM, МН",3,родным,Ins.Masc.Sing,Ты как с родным отцом разговариваешь?,_,_,"люди, политика"
+транспорт,1048,transport,N.Masc.Inan,A1,МН,1,транспорта,Gen.Sing,Каким видом транспорта вы пользуетесь?,_,_,"транспорт, путешествие"
+транспорт,1049,transport,N.Masc.Inan,A1,МН,2,транспортом,Ins.Sing,Я не пользуюсь общественным транспортом — у меня своя машина.,_,_,"транспорт, путешествие"
+транспорт,1050,transport,N.Masc.Inan,A1,МН,3,транспорт,Acc.Sing,Важно развивать общественный транспорт.,_,_,"транспорт, путешествие"
+посмотреть,1051,watch,V,A1,"Golosa, MiP, LM, МН",1,посмотреть,Inf,Какой красивый браслет! Можно посмотреть?,_,_,"свободное время, общение"
+посмотреть,1052,watch,V,A1,"Golosa, MiP, LM, МН",2,посмотрел,Masc.Sing.Past,"Ты посмотрел, как пройти в центр города?",_,_,"свободное время, общение"
+посмотреть,1053,watch,V,A1,"Golosa, MiP, LM, МН",3,посмотрела,Fem.Sing.Past,Она странно посмотрела на меня.,_,_,"свободное время, общение"
+вход,1054,entrance,N.Masc.Inan,A1,"MiP, LM, МН",1,входа,Gen.Sing,Жди меня у входа в магазин!,_,_,жильё
+вход,1055,entrance,N.Masc.Inan,A1,"MiP, LM, МН",2,входе,Loc.Sing,На входе в аэропорт теперь стоит охрана.,_,_,жильё
+вход,1056,entrance,N.Masc.Inan,A1,"MiP, LM, МН",3,вход,Acc.Sing,Я не вижу вход в этот магазин.,_,_,жильё
+французский,1057,French,A,A1,"Golosa, MiP, МН",1,французский,Nom.Masc.Sing,Французский президент вчера прибыл в Москву.,_,_,"политика, описание"
+французский,1058,French,A,A1,"Golosa, MiP, МН",2,французской,Gen.Fem.Sing,Вчера закончился фестиваль французской культуры.,_,_,"политика, описание"
+французский,1059,French,A,A1,"Golosa, MiP, МН",3,французском,Loc.Masc.Sing,Во французском языке есть артикли.,_,_,"политика, описание"
+автобус,1060,bus,N.Masc.Inan,A1,"MiP, LM, МН, Поехали",1,автобусе,Loc.Sing,Мы поедем в центр на автобусе. Трамваи туда не ходят.,_,_,"транспорт, путешествие"
+автобус,1061,bus,N.Masc.Inan,A1,"MiP, LM, МН, Поехали",2,автобуса,Gen.Sing,Я знаю маршрут этого автобуса.,_,_,"транспорт, путешествие"
+автобус,1062,bus,N.Masc.Inan,A1,"MiP, LM, МН, Поехали",3,автобусах,Loc.Plur,В московских автобусах есть бесплатный интернет.,_,_,"транспорт, путешествие"
+учебник,1063,student book,N.Masc.Inan,A1,"Golosa, MiP, МН",1,учебниках,Loc.Plur,Почему об этом не пишут в учебниках по истории?,_,_,учёба/работа
+учебник,1064,student book,N.Masc.Inan,A1,"Golosa, MiP, МН",2,учебники,Nom.Plur,Наши учебники по математике очень сложные.,_,_,учёба/работа
+учебник,1065,student book,N.Masc.Inan,A1,"Golosa, MiP, МН",3,учебник,Nom.Sing,Мне нужен этот учебник.,_,_,учёба/работа
+иностранный,1066,foreign,A,A1,"Golosa, MiP, МН",1,иностранных,Gen.Plur,Сколько иностранных языков вы знаете?,_,_,"политика, описание"
+иностранный,1067,foreign,A,A1,"Golosa, MiP, МН",2,иностранной,Gen.Fem.Sing,Он пошёл в библиотеку иностранной литературы.,_,_,"политика, описание"
+иностранный,1068,foreign,A,A1,"Golosa, MiP, МН",3,иностранным,Dat.Plur,Иностранным гражданам в этом музее скидка.,_,_,"политика, описание"
+здоровый,1069,healthy,A,A1,"Golosa, MiP, МН",1,здорово,Neut.Sing,"Как здорово, что ты приехал!",_,_,"здоровье, описание"
+здоровый,1070,healthy,A,A1,"Golosa, MiP, МН",2,здоровый,Nom.Masc.Sing,Ты очень устал. Тебе нужен здоровый сон.,_,_,"здоровье, описание"
+здоровый,1071,healthy,A,A1,"Golosa, MiP, МН",3,здоров,Masc.Sing,"Петя болел на прошлой неделе, но сейчас абсолютно здоров.",_,_,"здоровье, описание"
+счастливый,1072,happy,A,A1,"LM, МН",1,счастливым,Ins.Masc.Sing,Любовь делает меня счастливым.,_,_,"описание, внутренний мир"
+счастливый,1073,happy,A,A1,"LM, МН",2,счастливый,Nom.Masc.Sing,Меня взяли на работу! Какой счастливый день сегодня!,_,_,"описание, внутренний мир"
+счастливый,1074,happy,A,A1,"LM, МН",3,счастлив,Masc.Sing,Ты счастлив с ней?,_,_,"описание, внутренний мир"
+инженер,1075,engineer,N.Masc.Anim,A1,"Golosa, MiP, LM, МН",1,инженер,Nom.Sing,Мой папа — инженер.,_,_,"учёба/работа, люди"
+инженер,1076,engineer,N.Masc.Anim,A1,"Golosa, MiP, LM, МН",2,инженера,Gen.Sing,На нашем заводе свободна должность главного инженера.,_,_,"учёба/работа, люди"
+инженер,1077,engineer,N.Masc.Anim,A1,"Golosa, MiP, LM, МН",3,инженеры,Nom.Plur,В нашу компанию нужны инженеры.,_,_,"учёба/работа, люди"
+мужской,1078,man,A,A1,"Golosa, MiP, МН",1,мужской,Nom.Masc.Sing,Мужской туалет находится справа от кассы.,_,_,"люди, описание"
+мужской,1079,man,A,A1,"Golosa, MiP, МН",2,мужского,Gen.Masc.Sing,По-русски «дом» — существительное мужского рода.,_,_,"люди, описание"
+мужской,1080,man,A,A1,"Golosa, MiP, МН",3,мужских,Gen.Plur,"Я часто хожу в мужских очках, они мне нравятся.",_,_,"люди, описание"
+очки,1081,glasses,N.Inan,A1,"Golosa, MiP, МН",1,очки,Acc.Plur,Я не могу найти свои очки.,_,_,"магазин, здоровье"
+очки,1082,glasses,N.Inan,A1,"Golosa, MiP, МН",2,очках,Loc.Plur,Я всегда смотрю телевизор в очках.,_,_,"магазин, здоровье"
+очки,1083,glasses,N.Inan,A1,"Golosa, MiP, МН",3,очков,Gen.Plur,Я не могу читать без очков.,_,_,"магазин, здоровье"
+приложение,1084,attachment,N.Neut.Inan,A1,"Golosa, MiP, МН",1,приложение,Nom.Sing,Как называется приложение с картой метро?,_,_,учёба/работа
+приложение,1085,attachment,N.Neut.Inan,A1,"Golosa, MiP, МН",2,приложения,Gen.Sing,Он узнал об этом из приложения к журналу.,_,_,учёба/работа
+приложение,1086,attachment,N.Neut.Inan,A1,"Golosa, MiP, МН",3,приложении,Loc.Sing,Результаты анализов смотрите в приложении.,_,_,учёба/работа
+северный,1087,Northern,A,A1,МН,1,северной,Gen.Fem.Sing,Привет из северной столицы России — Санкт-Петербурга!,_,_,"описание, путешествие"
+северный,1088,Northern,A,A1,МН,2,северных,Gen.Plur,Жители северных стран пьют много кофе.,_,_,"описание, путешествие"
+северный,1089,Northern,A,A1,МН,3,северная,Nom.Fem.Sing,Северная Корея — очень закрытая страна.,_,_,"описание, путешествие"
+веселый,1090,fun,A,A1,"LM, МН",1,весёлый,Nom.Masc.Sing,Ты сегодня такой весёлый. У тебя какой-то праздник?,_,_,"описание, внутренний мир"
+веселый,1091,fun,A,A1,"LM, МН",2,весело,Neut.Sing,Мне здесь совсем не весело. Пойдём домой!,_,_,"описание, внутренний мир"
+веселый,1092,fun,A,A1,"LM, МН",3,весёлая,Nom.Fem.Sing,Моя собака всегда весёлая и энергичная.,_,_,"описание, внутренний мир"
+желтый,1093,yellow,A,A1,МН,1,жёлтые,Nom.Plur,Жёлтые листья падают с деревьев.,_,_,описание
+желтый,1094,yellow,A,A1,МН,2,жёлтый,Nom.Masc.Sing,Мне нравится твой жёлтый свитер.,_,_,описание
+желтый,1095,yellow,A,A1,МН,3,жёлтыми,Ins.Plur,Я ищу юбку с жёлтыми полосками.,_,_,описание
+сумка,1096,bag,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",1,сумку,Acc.Sing,Не забудь сумку! Там наши паспорта.,_,_,магазин
+сумка,1097,bag,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",2,сумки,Gen.Sing,Я не выхожу из дома без сумки.,_,_,магазин
+сумка,1098,bag,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",3,сумке,Loc.Sing,Я не могу найти ключи в сумке.,_,_,магазин
+соль,1099,salt,N.Fem.Inan,A1,"Golosa, MiP, МН",1,соли,Gen.Sing,"В этом салате мало соли, нужно добавить.",_,_,"еда, магазин"
+соль,1100,salt,N.Fem.Inan,A1,"Golosa, MiP, МН",2,соль,Acc.Sing,"Передай мне, пожалуйста, соль.",_,_,"еда, магазин"
+соль,1101,salt,N.Fem.Inan,A1,"Golosa, MiP, МН",3,солей,Gen.Plur,В этой воде много солей магния.,_,_,"еда, магазин"
+вокзал,1102,train station,N.Masc.Inan,A1,"MiP, LM, МН, Поехали",1,вокзала,Gen.Sing,С какого вокзала ты уезжаешь?,_,_,"транспорт, путешествие"
+вокзал,1103,train station,N.Masc.Inan,A1,"MiP, LM, МН, Поехали",2,вокзале,Loc.Sing,Я провёл ночь на вокзале — ждал поезд в Мурманск.,_,_,"транспорт, путешествие"
+вокзал,1104,train station,N.Masc.Inan,A1,"MiP, LM, МН, Поехали",3,вокзал,Acc.Sing,Вася поехал на вокзал встречать своих друзей.,_,_,"транспорт, путешествие"
+бедный,1105,poor,A,A1,МН,1,бедный,Nom.Masc.Sing,Откуда у Пети деньги? Он же бедный студент.,_,_,"люди, описание"
+бедный,1106,poor,A,A1,МН,2,бедная,Nom.Fem.Sing,Бедная девочка! Выздоравливай скорее!,_,_,"люди, описание"
+бедный,1107,poor,N.Masc.Anim,A1,МН,3,бедных,Gen.Plur,Дети из бедных семей получат бесплатные обеды в школе.,_,_,"люди, описание"
+специальность,1108,profession,N.Fem.Inan,A1,"Golosa, MiP, МН",1,специальности,Dat.Sing,Кто ты по специальности?,_,_,учёба/работа
+специальность,1109,profession,N.Fem.Inan,A1,"Golosa, MiP, МН",2,специальность,Nom.Sing,"Моя специальность — переводчик, но я работаю фотографом.",_,_,учёба/работа
+специальность,1110,profession,N.Fem.Inan,A1,"Golosa, MiP, МН",3,специальностям,Dat.Plur,В этом университете учат двадцати специальностям.,_,_,учёба/работа
+серый,1111,grey,A,A1,"Golosa, MiP, МН",1,серые,Nom.Plur,Мне не нравятся эти серые тучи на небе.,_,_,описание
+серый,1112,grey,A,A1,"Golosa, MiP, МН",2,серый,Nom.Masc.Sing,Серый волк — герой многих русских сказок.,_,_,описание
+серый,1113,grey,A,A1,"Golosa, MiP, МН",3,серых,Loc.Plur,Видите мужчину в серых штанах? Это мой дядя.,_,_,описание
+поступать,1114,enter,V,A1,"Golosa, MiP, МН",1,поступают,Plur.3.Pres/Fut,Куда поступают твои одноклассники?,_,_,учёба/работа
+поступать,1115,enter,V,A1,"Golosa, MiP, МН",2,поступать,Inf,Мой брат в этом году поступает в МГУ.,_,_,учёба/работа
+поступать,1116,enter,V,A1,"Golosa, MiP, МН",3,поступает,Sing.3.Pres/Fut,"В этом году он не поступает в университет, а идёт работать.",_,_,учёба/работа
+факультет,1117,faculty,N.Masc.Inan,A1,"Golosa, MiP, МН",1,факультете,Loc.Sing,На каком факультете ты учишься?,_,_,учёба/работа
+факультет,1118,faculty,N.Masc.Inan,A1,"Golosa, MiP, МН",2,факультета,Gen.Sing,Это профессор с моего факультета.,_,_,учёба/работа
+факультет,1119,faculty,N.Masc.Inan,A1,"Golosa, MiP, МН",3,факультет,Acc.Sing,Я поступила на факультет лингвистики.,_,_,учёба/работа
+внучка,1120,granddaughter,N.Fem.Anim,A1,"Golosa, MiP, LM, МН, Поехали",1,внучка,Nom.Sing,Моя внучка любит танцевать.,_,_,люди
+внучка,1121,granddaughter,N.Fem.Anim,A1,"Golosa, MiP, LM, МН, Поехали",2,внучку,Acc.Sing,Как зовут вашу внучку?,_,_,люди
+внучка,1122,granddaughter,N.Fem.Anim,A1,"Golosa, MiP, LM, МН, Поехали",3,внучки,Gen.Sing,У моей внучки много талантов.,_,_,люди
+посылать,1123,send,V,A1,"MiP, МН",1,посылает,Sing.3.Pres/Fut,Каждый месяц он посылает деньги своей семье.,_,_,"люди, общение"
+посылать,1124,send,V,A1,"MiP, МН",2,посылать,Inf,Я люблю посылать друзьям открытки из путешествий.,_,_,"люди, общение"
+посылать,1125,send,V,A1,"MiP, МН",3,посылают,Plur.3.Pres/Fut,Сергея всегда посылают на встречи с клиентами.,_,_,"люди, общение"
+бассейн,1126,swimming pool,N.Masc.Inan,A1,"Golosa, MiP, МН, Поехали",1,бассейна,Gen.Sing,Я только что вернулась из бассейна.,_,_,"свободное время, здоровье"
+бассейн,1127,swimming pool,N.Masc.Inan,A1,"Golosa, MiP, МН, Поехали",2,бассейне,Loc.Sing,Я не люблю плавать в бассейне. Там слишком грязно.,_,_,"свободное время, здоровье"
+бассейн,1128,swimming pool,N.Masc.Inan,A1,"Golosa, MiP, МН, Поехали",3,бассейн,Nom.Sing,Рядом с нашим домом открылся новый бассейн.,_,_,"свободное время, здоровье"
+менеджер,1129,manager,N.Masc.Anim,A1,"Golosa, MiP, МН",1,менеджер,Nom.Sing,Генеральный менеджер сейчас в отпуске. Что ему передать?,_,_,"люди, учёба/работа"
+менеджер,1130,manager,N.Masc.Anim,A1,"Golosa, MiP, МН",2,менеджеры,Nom.Plur,Менеджеры нашей компании собрались на встречу.,_,_,"люди, учёба/работа"
+менеджер,1131,manager,N.Masc.Anim,A1,"Golosa, MiP, МН",3,менеджера,Gen.Sing,Мы поменяли генерального менеджера нашей компании.,_,_,"люди, учёба/работа"
+англичанин,1132,Englishman,N.Masc.Anim,A1,"МН, Поехали, Кс",1,англичане,Nom.Plur,Англичане пьют чай с молоком.,_,_,"политика, люди"
+англичанин,1133,Englishman,N.Masc.Anim,A1,"МН, Поехали, Кс",2,англичанин,Nom.Sing,"Наш сосед — англичанин. Он родился в Лондоне, но вырос в Москве.",_,_,"политика, люди"
+англичанин,1134,Englishman,N.Masc.Anim,A1,"МН, Поехали, Кс",3,англичанина,Acc.Sing,Ваня похож на англичанина.,_,_,"политика, люди"
+свидание,1135,date,N.Neut.Inan,A1,"LM, МН",1,свидания,Gen.Sing,Мне пора идти. До свидания!,_,_,"люди, общение, свободное время"
+свидание,1136,date,N.Neut.Inan,A1,"LM, МН",2,свидание,Acc.Sing,Я вчера опоздала на свидание.,_,_,"люди, общение, свободное время"
+свидание,1137,date,N.Neut.Inan,A1,"LM, МН",3,свиданье,Acc.Sing,Петя пригласил Машу на первое свиданье.,_,_,"люди, общение, свободное время"
+спокойный,1138,calm,A,A1,МН,1,спокойное,Nom.Neut.Sing,_,_,_,"люди, внутренний мир, описание"
+спокойный,1139,calm,A,A1,МН,2,спокойной,Gen.Fem.Sing,Спокойной ночи! Сладких снов!,_,_,"люди, внутренний мир, описание"
+спокойный,1140,calm,A,A1,МН,3,спокойная,Nom.Fem.Sing,"День был ветреный дождливый, а ночь — спокойная и тихая.",_,_,"люди, внутренний мир, описание"
+поужинать,1141,have dinner,V,A1,"Golosa, MiP, LM, МН",1,поужинать,Inf,Где нам сегодня поужинать? Я хочу пиццу.,_,_,еда
+поужинать,1142,have dinner,V,A1,"Golosa, MiP, LM, МН",2,поужинали,Plur.Past,Вчера мы поужинали в итальянском ресторане.,_,_,еда
+поужинать,1143,have dinner,V,A1,"Golosa, MiP, LM, МН",3,поужинаем,Plur.1.Pres/Fut,Давай поужинаем сегодня вместе?,_,_,еда
+внук,1144,grandson,N.Masc.Anim,A1,"Golosa, MiP, LM, МН, Поехали",1,внуков,Gen.Plur,У Марии Петровны пять внуков.,_,_,люди
+внук,1145,grandson,N.Masc.Anim,A1,"Golosa, MiP, LM, МН, Поехали",2,внуки,Nom.Plur,Мои внуки часто приезжают ко мне в гости.,_,_,люди
+внук,1146,grandson,N.Masc.Anim,A1,"Golosa, MiP, LM, МН, Поехали",3,внуку,Dat.Sing,Бабушка приготовила внуку котлеты с картошкой.,_,_,люди
+общежитие,1147,dormitory,N.Neut.Inan,A1,"Golosa, MiP, МН",1,общежитии,Loc.Sing,Вы живёте в квартире или в общежитии?,_,_,"жильё, учёба/работа"
+общежитие,1148,dormitory,N.Neut.Inan,A1,"Golosa, MiP, МН",2,общежитие,Nom.Sing,Наше общежитие очень старое.,_,_,"жильё, учёба/работа"
+общежитие,1149,dormitory,N.Neut.Inan,A1,"Golosa, MiP, МН",3,общежитиях,Loc.Plur,В российских общежитиях нельзя пить и курить.,_,_,"жильё, учёба/работа"
+иностранец,1150,foreigner,N.Masc.Anim,A1,МН,1,иностранцы,Nom.Plur,Иностранцы обычно приезжают в Москву или в Санкт-Петербург.,_,_,"политика, люди"
+иностранец,1151,foreigner,N.Masc.Anim,A1,МН,2,иностранцев,Gen.Plur,На чемпионат мира по футболу в Россию приехало много иностранцев.,_,_,"политика, люди"
+иностранец,1152,foreigner,N.Masc.Anim,A1,МН,3,иностранец,Nom.Sing,Директор нашей компании — иностранец. Он приехал из Франции.,_,_,"политика, люди"
+россия,1153,Russia,N.Fem.Inan,A1,"Golosa, MiP, МН, Кс",1,россии,Loc.Sing,Вам нравится жить в России?,_,_,политика
+россия,1154,Russia,N.Fem.Inan,A1,"Golosa, MiP, МН, Кс",2,россию,Acc.Sing,Он приехал в Россию на неделю и остался навсегда.,_,_,политика
+россия,1155,Russia,N.Fem.Inan,A1,"Golosa, MiP, МН, Кс",3,россией,Ins.Sing,В Берлине начались переговоры между Россией и ЕС.,_,_,политика
+горячий,1156,hot,A,A1,"Golosa, MiP, МН",1,горячих,Gen.Plur,_,_,_,"описание, еда"
+горячий,1157,hot,A,A1,"Golosa, MiP, МН",2,горячей,Gen.Fem.Sing,_,_,_,"описание, еда"
+горячий,1158,hot,A,A1,"Golosa, MiP, МН",3,горячая,Nom.Fem.Sing,_,_,_,"описание, еда"
+сок,1159,juice,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,сок,Acc.Sing,Я люблю яблочный сок.,_,_,"еда, магазин"
+сок,1160,juice,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,соком,Ins.Sing,Он пьёт водку с соком.,_,_,"еда, магазин"
+сок,1161,juice,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,сока,Gen.Sing,"Налей мне стакан сока, пожалуйста!",_,_,"еда, магазин"
+обувь,1162,shoes,N.Fem.Inan,A1,"Golosa, MiP, МН",1,обувь,Nom.Sing,_,_,_,магазин
+обувь,1163,shoes,N.Fem.Inan,A1,"Golosa, MiP, МН",2,обуви,Gen.Sing,У меня нет хорошей зимней обуви.,_,_,магазин
+обувь,1164,shoes,N.Fem.Inan,A1,"Golosa, MiP, МН",3,обувью,Ins.Sing,_,_,_,магазин
+суп,1165,soup,N.Masc.Inan,A1,"Golosa, MiP, МН",1,суп,Acc.Sing,Я не люблю суп без мяса.,_,_,еда
+суп,1166,soup,N.Masc.Inan,A1,"Golosa, MiP, МН",2,супы,Acc.Plur,_,_,_,еда
+суп,1167,soup,N.Masc.Inan,A1,"Golosa, MiP, МН",3,супе,Loc.Sing,В этом супе есть картошка?,_,_,еда
+аэропорт,1168,airport,N.Masc.Inan,A1,"Golosa, MiP, LM, МН, Поехали",1,аэропорту,Loc.Sing,Когда ты прилетаешь? Я встречу тебя в аэропорту.,_,_,"транспорт, путешествие"
+аэропорт,1169,airport,N.Masc.Inan,A1,"Golosa, MiP, LM, МН, Поехали",2,аэропорта,Gen.Sing,Позвони мне из аэропорта!,_,_,"транспорт, путешествие"
+аэропорт,1170,airport,N.Masc.Inan,A1,"Golosa, MiP, LM, МН, Поехали",3,аэропорт,Acc.Sing,"Мне пора ехать в аэропорт, а я не могу найти свой паспорт.",_,_,"транспорт, путешествие"
+сыр,1171,cheese,N.Masc.Inan,A1,"Golosa, MiP, LM, МН, Кс",1,сыр,Acc.Sing,Катя не ест сыр с плесенью.,_,_,"еда, магазин"
+сыр,1172,cheese,N.Masc.Inan,A1,"Golosa, MiP, LM, МН, Кс",2,сыром,Ins.Sing,Ты будешь бутерброд с сыром и ветчиной?,_,_,"еда, магазин"
+сыр,1173,cheese,N.Masc.Inan,A1,"Golosa, MiP, LM, МН, Кс",3,сыра,Gen.Sing,Она жить не может без сыра!,_,_,"еда, магазин"
+юрист,1174,lawyer,N.Masc.Anim,A1,"Golosa, MiP, МН",1,юристов,Gen.Plur,В России сейчас много юристов и экономистов.,_,_,"учёба/работа, люди"
+юрист,1175,lawyer,N.Masc.Anim,A1,"Golosa, MiP, МН",2,юристы,Nom.Plur,Сколько зарабатывают юристы в Москве?,_,_,"учёба/работа, люди"
+юрист,1176,lawyer,N.Masc.Anim,A1,"Golosa, MiP, МН",3,юриста,Gen.Sing,Мне нужна помощь юриста.,_,_,"учёба/работа, люди"
+умный,1177,clever,A,A1,"Golosa, MiP, LM, МН",1,умный,Nom.Masc.Sing,_,_,_,"описание, внутренний мир"
+умный,1178,clever,A,A1,"Golosa, MiP, LM, МН",2,умные,Nom.Plur,_,_,_,"описание, внутренний мир"
+умный,1179,clever,A,A1,"Golosa, MiP, LM, МН",3,умных,Gen.Plur,_,_,_,"описание, внутренний мир"
+завтрак,1180,breakfast,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,завтрак,Acc.Sing,_,_,_,еда
+завтрак,1181,breakfast,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,завтрака,Gen.Sing,_,_,_,еда
+завтрак,1182,breakfast,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,завтраком,Ins.Sing,_,_,_,еда
+курица,1183,chicken,N.Fem.Anim,A1,"Golosa, MiP, МН, Кс",1,куры,Nom.Plur,_,_,_,"еда, магазин"
+курица,1184,chicken,N.Fem.Anim,A1,"Golosa, MiP, МН, Кс",2,курицу,Acc.Sing,Я не ем курицу.,_,_,"еда, магазин"
+курица,1185,chicken,N.Fem.Anim,A1,"Golosa, MiP, МН, Кс",3,курица,Nom.Sing,Эта курица несвежая.,_,_,"еда, магазин"
+младший,1186,younger,A,A1,"Golosa, МН",1,младший,Nom.Masc.Sing,Мой младший брат любит мультики.,_,_,"люди, описание"
+младший,1187,younger,A,A1,"Golosa, МН",2,младших,Gen.Plur,У Коли нет младших братьев.,_,_,"люди, описание"
+младший,1188,younger,A,A1,"Golosa, МН",3,младшего,Gen.Masc.Sing,_,_,_,"люди, описание"
+конверт,1189,envelope,N.Masc.Inan,A1,"MiP, LM, МН",1,конверт,Acc.Sing,_,_,_,"учёба/работа, магазин"
+конверт,1190,envelope,N.Masc.Inan,A1,"MiP, LM, МН",2,конверта,Gen.Sing,_,_,_,"учёба/работа, магазин"
+конверт,1191,envelope,N.Masc.Inan,A1,"MiP, LM, МН",3,конверты,Nom.Plur,_,_,_,"учёба/работа, магазин"
+копейка,1192,kopeck,N.Fem.Inan,A1,"Golosa, MiP, МН",1,копейки,Gen.Sing,_,_,_,магазин
+копейка,1193,kopeck,N.Fem.Inan,A1,"Golosa, MiP, МН",2,копеек,Gen.Plur,_,_,_,магазин
+копейка,1194,kopeck,N.Fem.Inan,A1,"Golosa, MiP, МН",3,копейку,Acc.Sing,_,_,_,магазин
+фабрика,1195,factory,N.Fem.Inan,A1,"LM, МН",1,фабрике,Loc.Sing,_,_,_,учёба/работа
+фабрика,1196,factory,N.Fem.Inan,A1,"LM, МН",2,фабрики,Gen.Sing,_,_,_,учёба/работа
+фабрика,1197,factory,N.Fem.Inan,A1,"LM, МН",3,фабрика,Nom.Sing,_,_,_,учёба/работа
+касса,1198,cash desk,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",1,кассе,Loc.Sing,_,_,_,магазин
+касса,1199,cash desk,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",2,кассу,Acc.Sing,_,_,_,магазин
+касса,1200,cash desk,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",3,кассы,Gen.Sing,_,_,_,магазин
+тетрадь,1201,copybook,N.Fem.Inan,A1,"Golosa, MiP, МН",1,тетрадь,Acc.Sing,_,_,_,"учёба/работа, магазин"
+тетрадь,1202,copybook,N.Fem.Inan,A1,"Golosa, MiP, МН",2,тетрадями,Ins.Plur,_,_,_,"учёба/работа, магазин"
+тетрадь,1203,copybook,N.Fem.Inan,A1,"Golosa, MiP, МН",3,тетради,Gen.Sing,_,_,_,"учёба/работа, магазин"
+приезжать,1204,come,V,A1,"Golosa, MiP, МН",1,приезжали,Plur.Past,_,_,_,путешествие
+приезжать,1205,come,V,A1,"Golosa, MiP, МН",2,приезжают,Plur.3.Pres/Fut,_,_,_,путешествие
+приезжать,1206,come,V,A1,"Golosa, MiP, МН",3,приезжает,Sing.3.Pres/Fut,_,_,_,путешествие
+голубой,1207,light blue,A,A1,"Golosa, MiP, МН",1,голубой,Nom.Masc.Sing,_,_,_,описание
+голубой,1208,light blue,A,A1,"Golosa, MiP, МН",2,голубую,Acc.Fem.Sing,_,_,_,описание
+голубой,1209,light blue,A,A1,"Golosa, MiP, МН",3,голубым,Ins.Masc.Sing,_,_,_,описание
+гитара,1210,guitar,N.Fem.Inan,A1,"Golosa, MiP, МН",1,гитару,Acc.Sing,_,_,_,свободное время
+гитара,1211,guitar,N.Fem.Inan,A1,"Golosa, MiP, МН",2,гитарой,Ins.Sing,_,_,_,свободное время
+гитара,1212,guitar,N.Fem.Inan,A1,"Golosa, MiP, МН",3,гитара,Nom.Sing,_,_,_,свободное время
+чашка,1213,cup,N.Fem.Inan,A1,"LM, МН",1,чашку,Acc.Sing,_,_,_,"магазин, жильё"
+чашка,1214,cup,N.Fem.Inan,A1,"LM, МН",2,чашки,Gen.Sing,_,_,_,"магазин, жильё"
+чашка,1215,cup,N.Fem.Inan,A1,"LM, МН",3,чашкой,Ins.Sing,_,_,_,"магазин, жильё"
+южный,1216,Southern,A,A1,МН,1,южной,Gen.Fem.Sing,_,_,_,"описание, путешествие"
+южный,1217,Southern,A,A1,МН,2,южных,Gen.Plur,_,_,_,"описание, путешествие"
+южный,1218,Southern,A,A1,МН,3,южные,Nom.Plur,_,_,_,"описание, путешествие"
+мороженое,1219,ice cream,N.Neut.Inan,A1,"Golosa, MiP, LM, МН",1,мороженое,Acc.Sing,_,_,_,"еда, магазин"
+мороженое,1220,ice cream,N.Neut.Inan,A1,"Golosa, MiP, LM, МН",2,мороженым,Ins.Sing,_,_,_,"еда, магазин"
+мороженое,1221,ice cream,N.Neut.Inan,A1,"Golosa, MiP, LM, МН",3,мороженого,Gen.Sing,_,_,_,"еда, магазин"
+синий,1222,dark blue,A,A1,"Golosa, MiP, LM, МН",1,синий,Nom.Masc.Sing,_,_,_,описание
+синий,1223,dark blue,A,A1,"Golosa, MiP, LM, МН",2,синие,Nom.Plur,_,_,_,описание
+синий,1224,dark blue,A,A1,"Golosa, MiP, LM, МН",3,синим,Ins.Masc.Sing,_,_,_,описание
+столовая,1225,canteen,N.Fem.Inan,A1,"Golosa, MiP, МН",1,столовой,Loc.Sing,_,_,_,"жильё, еда"
+столовая,1226,canteen,N.Fem.Inan,A1,"Golosa, MiP, МН",2,столовую,Acc.Sing,_,_,_,"жильё, еда"
+столовая,1227,canteen,N.Fem.Inan,A1,"Golosa, MiP, МН",3,столовая,Nom.Sing,_,_,_,"жильё, еда"
+сахар,1228,sugar,N.Masc.Inan,A1,"Golosa, MiP, МН",1,сахар,Acc.Sing,_,_,_,"еда, магазин"
+сахар,1229,sugar,N.Masc.Inan,A1,"Golosa, MiP, МН",2,сахару,Gen.Sing,_,_,_,"еда, магазин"
+сахар,1230,sugar,N.Masc.Inan,A1,"Golosa, MiP, МН",3,сахара,Gen.Sing,_,_,_,"еда, магазин"
+карандаш,1231,pencil,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,карандаш,Acc.Sing,_,_,_,"учёба/работа, магазин"
+карандаш,1232,pencil,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,карандашом,Ins.Sing,_,_,_,"учёба/работа, магазин"
+карандаш,1233,pencil,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,карандаша,Gen.Sing,_,_,_,"учёба/работа, магазин"
+рад,1234,glad,A,A1,"LM, МН",1,рад,Masc.Sing,_,_,_,"описание, внутренний мир"
+рад,1235,glad,A,A1,"LM, МН",2,рады,Plur,_,_,_,"описание, внутренний мир"
+рад,1236,glad,A,A1,"LM, МН",3,рада,Fem.Sing,_,_,_,"описание, внутренний мир"
+разумный,1237,rational,A,A1,МН,1,разумными,Ins.Plur,_,_,_,"описание, внутренний мир"
+разумный,1238,rational,A,A1,МН,2,разумная,Nom.Fem.Sing,_,_,_,"описание, внутренний мир"
+разумный,1239,rational,A,A1,МН,3,разумных,Gen.Plur,_,_,_,"описание, внутренний мир"
+коммуникация,1240,communication,N.Fem.Inan,A1,"Golosa, MiP, МН",1,коммуникаций,Gen.Plur,_,_,_,общение
+коммуникация,1241,communication,N.Fem.Inan,A1,"Golosa, MiP, МН",2,коммуникации,Gen.Sing,_,_,_,общение
+коммуникация,1242,communication,N.Fem.Inan,A1,"Golosa, MiP, МН",3,коммуникациям,Dat.Plur,_,_,_,общение
+продолжать,1243,continue,V,A1,МН,1,продолжает,Sing.3.Pres/Fut,_,_,_,"время, учеба/работа"
+продолжать,1244,continue,V,A1,МН,2,продолжал,Masc.Sing.Past,_,_,_,"время, учеба/работа"
+продолжать,1245,continue,V,A1,МН,3,продолжать,Inf,_,_,_,"время, учеба/работа"
+картошка,1246,potato,N.Fem.Inan,A1,"Golosa, MiP, МН, Кс",1,картошку,Acc.Sing,_,_,_,"еда, магазин"
+картошка,1247,potato,N.Fem.Inan,A1,"Golosa, MiP, МН, Кс",2,картошки,Gen.Sing,_,_,_,"еда, магазин"
+картошка,1248,potato,N.Fem.Inan,A1,"Golosa, MiP, МН, Кс",3,картошкой,Ins.Sing,_,_,_,"еда, магазин"
+балет,1249,ballet,N.Masc.Inan,A1,"Golosa, MiP, МН",1,балета,Gen.Sing,_,_,_,свободное время
+балет,1250,ballet,N.Masc.Inan,A1,"Golosa, MiP, МН",2,балет,Acc.Sing,_,_,_,свободное время
+балет,1251,ballet,N.Masc.Inan,A1,"Golosa, MiP, МН",3,балетов,Gen.Plur,_,_,_,свободное время
+архитектура,1252,architecture,N.Fem.Inan,A1,"Golosa, MiP, МН",1,архитектуры,Gen.Sing,_,_,_,"учёба/работа, жильё"
+архитектура,1253,architecture,N.Fem.Inan,A1,"Golosa, MiP, МН",2,архитектура,Nom.Sing,_,_,_,"учёба/работа, жильё"
+архитектура,1254,architecture,N.Fem.Inan,A1,"Golosa, MiP, МН",3,архитектуре,Dat.Sing,_,_,_,"учёба/работа, жильё"
+талантливый,1255,talented,A,A1,МН,1,талантливый,Nom.Masc.Sing,_,_,_,"описание, внутренний мир"
+талантливый,1256,talented,A,A1,МН,2,талантливые,Nom.Plur,_,_,_,"описание, внутренний мир"
+талантливый,1257,talented,A,A1,МН,3,талантливого,Gen.Masc.Sing,_,_,_,"описание, внутренний мир"
+ужин,1258,dinner,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,ужин,Acc.Sing,_,_,_,"еда, свободное время, время"
+ужин,1259,dinner,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,ужина,Gen.Sing,_,_,_,"еда, свободное время, время"
+ужин,1260,dinner,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,ужину,Dat.Sing,_,_,_,"еда, свободное время, время"
+национальность,1261,nationality,N.Fem.Inan,A1,"Golosa, MiP, МН",1,национальности,Gen.Sing,_,_,_,"политика, люди"
+национальность,1262,nationality,N.Fem.Inan,A1,"Golosa, MiP, МН",2,национальность,Nom.Sing,_,_,_,"политика, люди"
+национальность,1263,nationality,N.Fem.Inan,A1,"Golosa, MiP, МН",3,национальностей,Gen.Plur,_,_,_,"политика, люди"
+лампа,1264,lamp,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",1,лампы,Gen.Sing,_,_,_,"жильё, магазин"
+лампа,1265,lamp,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",2,лампу,Acc.Sing,_,_,_,"жильё, магазин"
+лампа,1266,lamp,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",3,лампа,Nom.Sing,_,_,_,"жильё, магазин"
+биология,1267,biology,N.Fem.Inan,A1,"Golosa, MiP, МН",1,биологии,Gen.Sing,_,_,_,"учёба/работа, животные/растения"
+биология,1268,biology,N.Fem.Inan,A1,"Golosa, MiP, МН",2,биология,Nom.Sing,_,_,_,"учёба/работа, животные/растения"
+биология,1269,biology,N.Fem.Inan,A1,"Golosa, MiP, МН",3,биологию,Acc.Sing,_,_,_,"учёба/работа, животные/растения"
+чайник,1270,kettle,N.Masc.Inan,A1,"LM, МН",1,чайника,Gen.Sing,_,_,_,"еда, магазин"
+чайник,1271,kettle,N.Masc.Inan,A1,"LM, МН",2,чайник,Acc.Sing,_,_,_,"еда, магазин"
+чайник,1272,kettle,N.Masc.Inan,A1,"LM, МН",3,чайников,Gen.Plur,_,_,_,"еда, магазин"
+бытовой,1273,household,A,A1,МН,1,бытовых,Gen.Plur,_,_,_,жильё
+бытовой,1274,household,A,A1,МН,2,бытовые,Inan.Acc.Plur,_,_,_,жильё
+бытовой,1275,household,A,A1,МН,3,бытового,Gen.Masc.Sing,_,_,_,жильё
+пятница,1276,Friday,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",1,пятницу,Acc.Sing,_,_,_,время
+пятница,1277,Friday,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",2,пятница,Nom.Sing,_,_,_,время
+пятница,1278,Friday,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",3,пятницы,Gen.Sing,_,_,_,время
+дешевый,1279,cheap,A,A1,МН,1,дешевле,Comp,_,_,_,магазин
+дешевый,1280,cheap,A,A1,МН,2,дешёвый,Nom.Masc.Sing,_,_,_,магазин
+дешевый,1281,cheap,A,A1,МН,3,дешёвая,Nom.Fem.Sing,_,_,_,магазин
+фрукт,1282,fruit,N.Masc.Inan,A1,"LM, МН",1,фрукты,Nom.Plur,_,_,_,"еда, магазин"
+фрукт,1283,fruit,N.Masc.Inan,A1,"LM, МН",2,фруктов,Gen.Plur,_,_,_,"еда, магазин"
+фрукт,1284,fruit,N.Masc.Inan,A1,"LM, МН",3,фруктам,Dat.Plur,_,_,_,"еда, магазин"
+четверг,1285,Thursday,N.Masc.Inan,A1,"Golosa, MiP, LM, МН, Кс",1,четверг,Acc.Sing,_,_,_,время
+четверг,1286,Thursday,N.Masc.Inan,A1,"Golosa, MiP, LM, МН, Кс",2,четвергам,Dat.Plur,_,_,_,время
+четверг,1287,Thursday,N.Masc.Inan,A1,"Golosa, MiP, LM, МН, Кс",3,четверга,Gen.Sing,_,_,_,время
+колбаса,1288,sausage,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",1,колбасы,Gen.Sing,_,_,_,"еда, магазин"
+колбаса,1289,sausage,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",2,колбасу,Acc.Sing,_,_,_,"еда, магазин"
+колбаса,1290,sausage,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",3,колбаса,Nom.Sing,_,_,_,"еда, магазин"
+книжный,1291,book,A,A1,"Golosa, MiP, LM, МН",1,книжной,Gen.Fem.Sing,_,_,_,"описание, магазин"
+книжный,1292,book,A,A1,"Golosa, MiP, LM, МН",2,книжный,Nom.Masc.Sing,_,_,_,"описание, магазин"
+книжный,1293,book,A,A1,"Golosa, MiP, LM, МН",3,книжного,Gen.Neut.Sing,_,_,_,"описание, магазин"
+теннис,1294,tennis,N.Masc.Inan,A1,"MiP, LM, МН",1,теннису,Dat.Sing,_,_,_,свободное время
+теннис,1295,tennis,N.Masc.Inan,A1,"MiP, LM, МН",2,тенниса,Gen.Sing,_,_,_,свободное время
+теннис,1296,tennis,N.Masc.Inan,A1,"MiP, LM, МН",3,теннис,Nom.Sing,_,_,_,свободное время
+паспорт,1297,passport,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",1,паспорт,Acc.Sing,_,_,_,"путешествие, учёба/работа"
+паспорт,1298,passport,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",2,паспорту,Dat.Sing,_,_,_,"путешествие, учёба/работа"
+паспорт,1299,passport,N.Masc.Inan,A1,"Golosa, MiP, LM, МН",3,паспортом,Ins.Sing,_,_,_,"путешествие, учёба/работа"
+студенческий,1300,student,A,A1,МН,1,студенческий,Nom.Masc.Sing,_,_,_,"описание, учёба/работа"
+студенческий,1301,student,A,A1,МН,2,студенческого,Gen.Masc.Sing,_,_,_,"описание, учёба/работа"
+студенческий,1302,student,A,A1,МН,3,студенческих,Gen.Plur,_,_,_,"описание, учёба/работа"
+овощ,1303,vegetable,N.Masc.Inan,A1,МН,1,овощи,Acc.Plur,_,_,_,"еда, магазин"
+овощ,1304,vegetable,N.Masc.Inan,A1,МН,2,овощей,Gen.Plur,_,_,_,"еда, магазин"
+овощ,1305,vegetable,N.Masc.Inan,A1,МН,3,овощу,Gen.Sing,_,_,_,"еда, магазин"
+просить,1306,ask,V,A1,"MiP, LM, МН",1,прошу,Sing.1.Pres/Fut,_,_,_,"люди, общение"
+просить,1307,ask,V,A1,"MiP, LM, МН",2,просит,Sing.3.Pres/Fut,_,_,_,"люди, общение"
+просить,1308,ask,V,A1,"MiP, LM, МН",3,просил,Masc.Sing.Past,_,_,_,"люди, общение"
+виза,1309,visa,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",1,визы,Nom.Plur,_,_,_,путешествие
+виза,1310,visa,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",2,виз,Gen.Plur,_,_,_,путешествие
+виза,1311,visa,N.Fem.Inan,A1,"Golosa, MiP, LM, МН",3,визу,Acc.Sing,_,_,_,путешествие
+троллейбус,1312,trolleybus,N.Masc.Inan,A1,"MiP, LM, МН",1,троллейбусе,Loc.Sing,_,_,_,транспорт
+троллейбус,1313,trolleybus,N.Masc.Inan,A1,"MiP, LM, МН",2,троллейбусы,Nom.Plur,_,_,_,транспорт
+троллейбус,1314,trolleybus,N.Masc.Inan,A1,"MiP, LM, МН",3,троллейбусов,Gen.Plur,_,_,_,транспорт
+аптека,1315,pharmacy,N.Fem.Inan,A1,"MiP, МН, Поехали",1,аптеку,Acc.Sing,_,_,_,здоровье
+аптека,1316,pharmacy,N.Fem.Inan,A1,"MiP, МН, Поехали",2,аптеке,Loc.Sing,_,_,_,здоровье
+аптека,1317,pharmacy,N.Fem.Inan,A1,"MiP, МН, Поехали",3,аптека,Nom.Sing,_,_,_,здоровье
+упражнение,1318,excersise,N.Neut.Inan,A1,"Golosa, MiP, МН",1,упражнения,Acc.Plur,_,_,_,"здоровье, свободное время, учёба/работа"
+упражнение,1319,excersise,N.Neut.Inan,A1,"Golosa, MiP, МН",2,упражнениями,Ins.Plur,_,_,_,"здоровье, свободное время, учёба/работа"
+упражнение,1320,excersise,N.Neut.Inan,A1,"Golosa, MiP, МН",3,упражнениям,Dat.Plur,_,_,_,"здоровье, свободное время, учёба/работа"
+домохозяйка,1321,housewife,N.Fem.Anim,A1,"Golosa, MiP, МН",1,домохозяйка,Nom.Sing,_,_,_,люди
+домохозяйка,1322,housewife,N.Fem.Anim,A1,"Golosa, MiP, МН",2,домохозяйки,Nom.Plur,_,_,_,люди
+фотоаппарат,1323,camera,N.Masc.Inan,A1,"Golosa, MiP, МН",1,фотоаппарата,Gen.Sing,_,_,_,"свободное время, магазин"
+фотоаппарат,1324,camera,N.Masc.Inan,A1,"Golosa, MiP, МН",2,фотоаппарат,Acc.Sing,_,_,_,"свободное время, магазин"
+фотоаппарат,1325,camera,N.Masc.Inan,A1,"Golosa, MiP, МН",3,фотоаппараты,Acc.Plur,_,_,_,"свободное время, магазин"
+смелый,1326,brave,A,A1,МН,1,смелый,Nom.Masc.Sing,_,_,_,"описание, внутренний мир"
+смелый,1327,brave,A,A1,МН,2,смелые,Nom.Plur,_,_,_,"описание, внутренний мир"
+смелый,1328,brave,A,A1,МН,3,смелая,Nom.Fem.Sing,_,_,_,"описание, внутренний мир"
+открытка,1329,card,N.Fem.Inan,A1,"MiP, LM, МН",1,открыток,Gen.Plur,_,_,_,"общение, магазин"
+открытка,1330,card,N.Fem.Inan,A1,"MiP, LM, МН",2,открытки,Nom.Plur,_,_,_,"общение, магазин"
+открытка,1331,card,N.Fem.Inan,A1,"MiP, LM, МН",3,открытка,Nom.Sing,_,_,_,"общение, магазин"
+работать,1332,work,V,A1,"Golosa, MiP, LM, МН",1,работать,Inf,_,_,_,учеба/работа
+работать,1333,work,V,A1,"Golosa, MiP, LM, МН",2,работает,Sing.3.Pres/Fut,_,_,_,учеба/работа
+работать,1334,work,V,A1,"Golosa, MiP, LM, МН",3,работают,Plur.3.Pres/Fut,_,_,_,учеба/работа
+шарф,1335,scarf,N.Masc.Inan,A1,"LM, МН, Кс",1,шарфом,Ins.Sing,_,_,_,магазин
+шарф,1336,scarf,N.Masc.Inan,A1,"LM, МН, Кс",2,шарфе,Loc.Sing,_,_,_,магазин
+шарф,1337,scarf,N.Masc.Inan,A1,"LM, МН, Кс",3,шарф,Nom.Sing,_,_,_,магазин
+сувенир,1338,souvenir,N.Masc.Inan,A1,"Golosa, MiP, МН",1,сувениры,Acc.Plur,_,_,_,"путешествие, магазин"
+сувенир,1339,souvenir,N.Masc.Inan,A1,"Golosa, MiP, МН",2,сувениров,Gen.Plur,_,_,_,"путешествие, магазин"
+сувенир,1340,souvenir,N.Masc.Inan,A1,"Golosa, MiP, МН",3,сувенирами,Ins.Plur,_,_,_,"путешествие, магазин"
+коричневый,1341,brown,A,A1,"Golosa, MiP, МН",1,коричневых,Gen.Plur,_,_,_,описание
+коричневый,1342,brown,A,A1,"Golosa, MiP, МН",2,коричневыми,Ins.Plur,_,_,_,описание
+коричневый,1343,brown,A,A1,"Golosa, MiP, МН",3,коричневые,Nom.Plur,_,_,_,описание
+должный,1344,proper,A,A1,МН,1,должного,Gen.Neut.Sing,_,_,_,"описание, учёба/работа"
+должный,1345,proper,A,A1,МН,2,должным,Ins.Masc.Sing,_,_,_,"описание, учёба/работа"
+должный,1346,proper,A,A1,МН,3,должную,Acc.Fem.Sing,_,_,_,"описание, учёба/работа"
+разговаривать,1347,talk,V,A1,"Golosa, MiP, LM, МН",1,разговаривать,Inf,_,_,_,"люди, общение"
+разговаривать,1348,talk,V,A1,"Golosa, MiP, LM, МН",2,разговаривали,Plur.Past,_,_,_,"люди, общение"
+разговаривать,1349,talk,V,A1,"Golosa, MiP, LM, МН",3,разговаривал,Masc.Sing.Past,_,_,_,"люди, общение"
+сделать,1350,make,V,A1,"Golosa, MiP, LM, МН",1,сделать,Inf,_,_,_,учеба/работа
+сделать,1351,make,V,A1,"Golosa, MiP, LM, МН",2,сделал,Masc.Sing.Past,_,_,_,учеба/работа
+сделать,1352,make,V,A1,"Golosa, MiP, LM, МН",3,сделали,Plur.Past,_,_,_,учеба/работа
+сидеть,1353,sit,V,A1,"MiP, LM, МН",1,сидел,Masc.Sing.Past,_,_,_,"люди, жилье, свободное время, описание"
+сидеть,1354,sit,V,A1,"MiP, LM, МН",2,сидит,Sing.3.Pres/Fut,_,_,_,"люди, жилье, свободное время, описание"
+сидеть,1355,sit,V,A1,"MiP, LM, МН",3,сидеть,Inf,_,_,_,"люди, жилье, свободное время, описание"
+сказать,1356,say,V,A1,"Golosa, MiP, LM, МН",1,сказал,Masc.Sing.Past,_,_,_,общение
+сказать,1357,say,V,A1,"Golosa, MiP, LM, МН",2,сказать,Inf,_,_,_,общение
+сказать,1358,say,V,A1,"Golosa, MiP, LM, МН",3,сказала,Fem.Sing.Past,_,_,_,общение
+смотреть,1359,watch,V,A1,"LM, МН",1,смотреть,Inf,_,_,_,"свободное время, общение"
+смотреть,1360,watch,V,A1,"LM, МН",2,смотрел,Masc.Sing.Past,_,_,_,"свободное время, общение"
+смотреть,1361,watch,V,A1,"LM, МН",3,смотрит,Sing.3.Pres/Fut,_,_,_,"свободное время, общение"
+смочь,1362,be able to,V,A1,"LM, МН",1,смогли,Plur.Past,_,_,_,"люди, свободное время"
+смочь,1363,be able to,V,A1,"LM, МН",2,сможет,Sing.3.Pres/Fut,_,_,_,"люди, свободное время"
+смочь,1364,be able to,V,A1,"LM, МН",3,смог,Masc.Sing.Past,_,_,_,"люди, свободное время"
+спать,1365,sleep,V,A1,"LM, МН",1,спать,Inf,_,_,_,свободное время
+спать,1366,sleep,V,A1,"LM, МН",2,спал,Masc.Sing.Past,_,_,_,свободное время
+спать,1367,sleep,V,A1,"LM, МН",3,спит,Sing.3.Pres/Fut,_,_,_,свободное время
+спрашивать,1368,ask,V,A1,"Golosa, MiP, LM, МН",1,спрашивает,Sing.3.Pres/Fut,_,_,_,общение
+спрашивать,1369,ask,V,A1,"Golosa, MiP, LM, МН",2,спрашивать,Inf,_,_,_,общение
+спрашивать,1370,ask,V,A1,"Golosa, MiP, LM, МН",3,спрашиваю,Sing.1.Pres/Fut,_,_,_,общение
+становиться,1371,become,V,A1,"MiP, LM, МН",1,становится,Sing.3.Pres/Fut,_,_,_,"учеба/работа, время"
+становиться,1372,become,V,A1,"MiP, LM, МН",2,становятся,Plur.3.Pres/Fut,_,_,_,"учеба/работа, время"
+становиться,1373,become,V,A1,"MiP, LM, МН",3,становилось,Neut.Sing.Past,_,_,_,"учеба/работа, время"
+стоить,1374,cost,V,A1,"Golosa, MiP, LM, МН",1,стоит,Sing.3.Pres/Fut,_,_,_,магазин
+стоить,1375,cost,V,A1,"Golosa, MiP, LM, МН",2,стоило,Neut.Sing.Past,_,_,_,магазин
+стоить,1376,cost,V,A1,"Golosa, MiP, LM, МН",3,стоят,Plur.3.Pres/Fut,_,_,_,магазин
+стоять,1377,stand,V,A1,"Golosa, MiP, LM, МН",1,стоит,Sing.3.Pres/Fut,_,_,_,жилье
+стоять,1378,stand,V,A1,"Golosa, MiP, LM, МН",2,стоял,Masc.Sing.Past,_,_,_,жилье
+стоять,1379,stand,V,A1,"Golosa, MiP, LM, МН",3,стояли,Plur.Past,_,_,_,жилье
+строить,1380,build,V,A1,"MiP, МН",1,строить,Inf,_,_,_,"учеба/работа, жилье"
+строить,1381,build,V,A1,"MiP, МН",2,строили,Plur.Past,_,_,_,"учеба/работа, жилье"
+строить,1382,build,V,A1,"MiP, МН",3,строит,Sing.3.Pres/Fut,_,_,_,"учеба/работа, жилье"
+танцевать,1383,dance,V,A1,"MiP, LM, МН",1,танцевать,Inf,_,_,_,свободное время
+танцевать,1384,dance,V,A1,"MiP, LM, МН",2,танцует,Sing.3.Pres/Fut,_,_,_,свободное время
+танцевать,1385,dance,V,A1,"MiP, LM, МН",3,танцевал,Masc.Sing.Past,_,_,_,свободное время
+увидеть,1386,see,V,A1,"LM, МН",1,увидел,Masc.Sing.Past,_,_,_,внутренний мир
+увидеть,1387,see,V,A1,"LM, МН",2,увидеть,Inf,_,_,_,внутренний мир
+увидеть,1388,see,V,A1,"LM, МН",3,увидела,Fem.Sing.Past,_,_,_,внутренний мир
+ужинать,1389,have dinner,V,A1,"LM, МН",1,ужинал,Masc.Sing.Past,_,_,_,еда
+ужинать,1390,have dinner,V,A1,"LM, МН",2,ужинать,Inf,_,_,_,еда
+ужинать,1391,have dinner,V,A1,"LM, МН",3,ужинали,Plur.Past,_,_,_,еда
+умирать,1392,die,V,A1,"Golosa, MiP, LM, МН",1,умирает,Sing.3.Pres/Fut,_,_,_,"люди, время, здоровье"
+умирать,1393,die,V,A1,"Golosa, MiP, LM, МН",2,умирают,Plur.3.Pres/Fut,_,_,_,"люди, время, здоровье"
+умирать,1394,die,V,A1,"Golosa, MiP, LM, МН",3,умирать,Inf,_,_,_,"люди, время, здоровье"
+уставать,1395,be tired,V,A1,"LM, МН",1,устаю,Sing.1.Pres/Fut,_,_,_,"учеба/работа, здоровье, свободное время"
+уставать,1396,be tired,V,A1,"LM, МН",2,уставала,Fem.Sing.Past,_,_,_,"учеба/работа, здоровье, свободное время"
+уставать,1397,be tired,V,A1,"LM, МН",3,устаёшь,Sing.2.Pres/Fut,_,_,_,"учеба/работа, здоровье, свободное время"
+учить,1398,teach,V,A1,"MiP, МН",1,учить,Inf,_,_,_,учеба/работа
+учить,1399,teach,V,A1,"MiP, МН",2,учат,Plur.3.Pres/Fut,_,_,_,учеба/работа
+учить,1400,teach,V,A1,"MiP, МН",3,учит,Sing.3.Pres/Fut,_,_,_,учеба/работа
+учиться,1401,learn,V,A1,"Golosa, MiP, LM, МН",1,учиться,Inf,_,_,_,учеба/работа
+учиться,1402,learn,V,A1,"Golosa, MiP, LM, МН",2,учился,Masc.Sing.Past,_,_,_,учеба/работа
+учиться,1403,learn,V,A1,"Golosa, MiP, LM, МН",3,учится,Sing.3.Pres/Fut,_,_,_,учеба/работа
+фотографировать,1404,make photographs,V,A1,"LM, МН",1,фотографируешь,Sing.2.Pres/Fut,_,_,_,"учеба/работа, свободное время"
+фотографировать,1405,make photographs,V,A1,"LM, МН",2,фотографирует,Sing.3.Pres/Fut,_,_,_,"учеба/работа, свободное время"
+фотографировать,1406,make photographs,V,A1,"LM, МН",3,фотографировать,Inf,_,_,_,"учеба/работа, свободное время"
+ходить,1407,walk,V,A1,"Golosa, MiP, LM, МН, Кс",1,ходили,Plur.Past,_,_,_,"учеба/работа, свободное время"
+ходить,1408,walk,V,A1,"Golosa, MiP, LM, МН, Кс",2,ходить,Inf,_,_,_,"учеба/работа, свободное время"
+ходить,1409,walk,V,A1,"Golosa, MiP, LM, МН, Кс",3,ходила,Fem.Sing.Past,_,_,_,"учеба/работа, свободное время"
+хотеть,1410,want,V,A1,"Golosa, MiP, LM, МН",1,хочу,Sing.1.Pres/Fut,_,_,_,внутренний мир
+хотеть,1411,want,V,A1,"Golosa, MiP, LM, МН",2,хотел,Masc.Sing.Past,_,_,_,внутренний мир
+хотеть,1412,want,V,A1,"Golosa, MiP, LM, МН",3,хочет,Sing.3.Pres/Fut,_,_,_,внутренний мир
+чувствовать,1413,feel,V,A1,"MiP, LM, МН",1,чувствую,Sing.1.Pres/Fut,_,_,_,внутренний мир
+чувствовать,1414,feel,V,A1,"MiP, LM, МН",2,чувствует,Sing.3.Pres/Fut,_,_,_,внутренний мир
+чувствовать,1415,feel,V,A1,"MiP, LM, МН",3,чувствовал,Masc.Sing.Past,_,_,_,внутренний мир
